@@ -1,0 +1,761 @@
+Ftr_ID,Ftr_Type,Engineering_Group,Volume_Score,Priority_Band,Material,Geochemical,Geotechnical,Water_Containment,Reclaimed,Superfund,Commodity,Commodity_Count,Boundary_Distance,Boundary_Flag
+AZ000001-001,Tailings - pond,Tailings,0.727239944270322,Higher,2,2,2,1,No,No,copper; gold; molybdenum; silver,4,0.06703235635175364,False
+AZ000001-002,Leach pile - heap,Leach-related,0.7533620481886617,Higher,2,2,1,2,No,No,copper; gold; molybdenum; silver,4,0.09315446027009333,False
+AZ000001-003,Tailings - pond,Tailings,0.6528777673610876,Intermediate,2,2,2,1,No,No,copper; gold; molybdenum; silver,4,0.007329820557480771,True
+AZ000002-001,Tailings - pond,Tailings,0.7179984269849757,Higher,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.05779083906640736,False
+AZ000002-002,Tailings - pond,Tailings,0.7315125739138819,Higher,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.07130498599531354,False
+AZ000002-003,Tailings - pond,Tailings,0.5827212515745568,Intermediate,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.07748633634401159,False
+AZ000002-004,Tailings - pond,Tailings,0.7356663469142986,Higher,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.07545875899573018,False
+AZ000002-005,Tailings - pond,Tailings,0.6823844935020069,Higher,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.022176905583438544,False
+AZ000002-006,Tailings - pond,Tailings,0.7759503851563423,Higher,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.11574279723777392,False
+AZ000002-007,Tailings - pond,Tailings,0.5621533835406525,Intermediate,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.0980542043779159,False
+AZ000002-008,Tailings - pond,Tailings,0.7177564380011417,Higher,2,2,2,1,Yes,No,copper; gold; lead; molybdenum; silver,5,0.05754885008257338,False
+AZ000002-009,Leach pile - heap,Leach-related,0.8192598427210266,Higher,2,2,1,2,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.15905225480245822,False
+AZ000002-010,Leach pile - heap,Leach-related,0.7118815929541609,Higher,2,2,1,2,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.051674005035592496,False
+AZ000002-011,Leach pile - heap,Leach-related,0.8200655889265075,Higher,2,2,1,2,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.15985800100793912,False
+AZ000002-012,Overburden pile,Rock / overburden,0.7132770998823983,Higher,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.05306951196382992,False
+AZ000002-013,Overburden pile,Rock / overburden,0.7974556846455425,Higher,2,2,2,1,Unknown,No,copper; gold; lead; molybdenum; silver,5,0.13724809672697413,False
+AZ000003-001,Tailings - pond,Tailings,0.7904922894117723,Higher,2,2,2,1,Unknown,No,copper; molybdenum (2); uranium,3,0.13028470149320392,False
+AZ000003-002,Tailings - pond,Tailings,0.8385246527472241,Higher,2,2,2,1,Unknown,No,copper; molybdenum (2); uranium,3,0.17831706482865572,False
+AZ000003-003,Mine dump,Rock / overburden,0.6990938063107697,Higher,2,2,2,1,Unknown,No,copper; molybdenum (1); uranium,3,0.0388862183922013,False
+AZ000003-004,Mine dump,Rock / overburden,0.7882583071022196,Higher,2,2,2,1,Unknown,No,copper; molybdenum (1); uranium,3,0.12805071918365118,False
+AZ000003-005,Mine dump,Rock / overburden,0.8324479371671881,Higher,2,2,2,1,Unknown,No,copper; molybdenum (1); uranium,3,0.17224034924861975,False
+AZ000003-006,Mine dump,Rock / overburden,0.8376308291012996,Higher,2,2,2,1,Unknown,No,copper; molybdenum (1); uranium,3,0.17742324118273123,False
+AZ000003-007,Mine dump,Rock / overburden,0.5699846747854865,Intermediate,2,2,2,1,Unknown,No,copper; molybdenum (1); uranium,3,0.09022291313308184,False
+AZ000004-001,Tailings - mill,Tailings,0.6359993936476424,Intermediate,2,2,2,1,Yes,Yes,copper,1,0.02420819427092602,False
+AZ000004-002,Leach pile - heap,Leach-related,0.5854039540236892,Intermediate,2,2,1,2,No,Yes,copper,1,0.0748036338948792,False
+AZ000004-003,Evaporation pond,Water / process pond,0.6117651456946868,Intermediate,1,2,1,2,Yes,Yes,copper,1,0.04844244222388161,False
+AZ000004-004,Overburden pile,Rock / overburden,0.5977907069091214,Intermediate,2,2,2,1,Unknown,Yes,copper,1,0.06241688100944698,False
+AZ000005-001,Tailings - pond,Tailings,0.755392643987821,Higher,2,2,2,1,Unknown,No,copper; molybdenum; rhenium,3,0.09518505606925265,False
+AZ000005-002,Tailings - pond,Tailings,0.9339932649038116,Higher,2,2,2,1,No,No,copper; molybdenum; rhenium,3,0.27378567698524325,False
+AZ000005-003,Mine dump,Rock / overburden,0.8322009532795372,Higher,2,2,2,1,Unknown,No,copper; molybdenum; rhenium,3,0.17199336536096888,False
+AZ000005-004,Leach pile - heap,Leach-related,0.8235150124150784,Higher,2,2,1,2,Unknown,No,copper; molybdenum; rhenium,3,0.16330742449651003,False
+AZ000005-005,Leach pile - heap,Leach-related,0.829268761548984,Higher,2,2,1,2,Unknown,No,copper; molybdenum; rhenium,3,0.16906117363041562,False
+AZ000005-006,Mine dump,Rock / overburden,0.8266565259831216,Higher,2,2,2,1,Unknown,No,copper; molybdenum; rhenium,3,0.1664489380645532,False
+AZ000005-007,Mine dump,Rock / overburden,0.7003380744795561,Higher,2,2,2,1,Unknown,No,copper; molybdenum; rhenium,3,0.04013048656098772,False
+AZ000006-001,Mine dump,Rock / overburden,0.6677121489894108,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.007504561070842408,True
+AZ000006-002,Tailings - pond,Tailings,0.8439364433765544,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.183728855457986,False
+AZ000006-003,Tailings - pond,Tailings,0.8161002008227263,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.1558926129041579,False
+AZ000006-004,Tailings - pond,Tailings,0.7478417156512452,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.08763412773267687,False
+AZ000006-005,Leach pile - heap,Leach-related,0.7760949573933247,Higher,2,2,1,2,Unknown,No,copper; gold; molybdenum; silver,4,0.11588736947475631,False
+AZ000006-006,Tailings - pond,Tailings,0.7992235151255653,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.13901592720699696,False
+AZ000006-007,Tailings - pond,Tailings,0.7836500335448293,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.12344244562626094,False
+AZ000007-001,Tailings - pond,Tailings,0.600473228846558,Intermediate,2,2,2,1,Unknown,No,copper (2); gold (2); lead (2); manganese (2); silver (2); zinc (2),6,0.05973435907201041,False
+AZ000007-002,Tailings - pond,Tailings,0.6041974431393827,Intermediate,2,2,2,1,Unknown,No,copper (2); gold (2); lead (2); manganese (2); silver (2); zinc (2),6,0.056010144779185644,False
+AZ000007-003,Tailings - pond,Tailings,0.5975504341295252,Intermediate,2,2,2,1,Unknown,No,copper (2); gold (2); lead (2); manganese (2); silver (2); zinc (2),6,0.06265715378904313,False
+AZ000008-001,Tailings - pond,Tailings,0.7548921076458185,Higher,2,2,2,1,No,No,copper; molybdenum,2,0.09468451972725012,False
+AZ000008-002,Tailings - pond,Tailings,0.7871981102812095,Higher,2,2,2,1,No,No,copper; molybdenum,2,0.12699052236264108,False
+AZ000008-003,Tailings - pond,Tailings,0.7353656467183466,Higher,2,2,2,1,No,No,copper; molybdenum,2,0.07515805879977822,False
+AZ000008-004,Tailings - pond,Tailings,0.6960401729982786,Higher,2,2,2,1,No,No,copper (1); molybdenum (1),2,0.03583258507971021,False
+AZ000008-005,Tailings - pond,Tailings,0.853181159787509,Higher,2,2,2,1,No,No,copper; molybdenum,2,0.1929735718689406,False
+AZ000008-006,Tailings - pond,Tailings,0.6912059632052286,Higher,2,2,2,1,No,No,copper; molybdenum,2,0.030998375286660274,False
+AZ000008-007,Tailings - pond,Tailings,0.7654359638792972,Higher,2,2,2,1,No,No,copper; molybdenum,2,0.10522837596072887,False
+AZ000008-008,Leach pile - heap,Leach-related,0.858764761505072,Higher,2,2,1,2,No,No,copper (1); molybdenum (1),2,0.1985571735865036,False
+AZ000008-009,Leach pile - heap,Leach-related,0.83293291822543,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.17272533030686166,False
+AZ000008-010,Leach pile - heap,Leach-related,0.7763969411939154,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.11618935327534707,False
+AZ000008-011,Leach pile - heap,Leach-related,0.7583352030491908,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.0981276151306224,False
+AZ000008-012,Leach pile - heap,Leach-related,0.8570883750129958,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.19688078709442747,False
+AZ000008-013,Leach pile - heap,Leach-related,0.9773836108705408,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.31717602295197245,False
+AZ000008-014,Leach pile - heap,Leach-related,0.7970781527964557,Higher,2,2,1,2,No,No,copper (1); molybdenum (1),2,0.1368705648778873,False
+AZ000008-015,Leach pile - heap,Leach-related,0.945394135678508,Higher,2,2,1,2,No,No,copper (1); molybdenum (1),2,0.2851865477599397,False
+AZ000008-016,Leach pile - heap,Leach-related,0.7505839825857944,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.09037639466722602,False
+AZ000008-017,Leach pile - heap,Leach-related,0.8521565295018232,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.19194894158325482,False
+AZ000008-018,Leach pile - heap,Leach-related,0.8332541010594192,Higher,2,2,1,2,No,No,copper; molybdenum,2,0.17304651314085084,False
+AZ000008-019,Tailings - pond,Tailings,0.841187785485195,Higher,2,2,2,1,No,No,copper (1); molybdenum (1),2,0.18098019756662664,False
+AZ000009-001,Tailings - pond,Tailings,0.5951595714614493,Intermediate,2,2,2,1,Yes,No,copper; gold; lead; silver; zinc,5,0.0650480164571191,False
+AZ000009-002,Slag pile,Process / metallurgical residue,0.5830209843412902,Intermediate,2,2,1,0,No,No,copper; gold; lead; silver; zinc,5,0.07718660357727813,False
+AZ000009-003,Mine dump,Rock / overburden,0.6388515654414252,Intermediate,2,2,2,1,No,No,copper; gold; lead; silver; zinc,5,0.02135602247714319,False
+AZ000010-001,Tailings - pond,Tailings,0.6009591330057201,Intermediate,2,2,2,1,Unknown,No,copper; gold; silver,3,0.05924845491284825,False
+AZ000010-002,Tailings - pond,Tailings,0.6338104387338719,Intermediate,2,2,2,1,Unknown,No,copper; gold; silver,3,0.02639714918469649,False
+AZ000010-003,Mine dump,Rock / overburden,0.7861197323453439,Higher,2,2,2,1,Unknown,No,copper; gold; silver,3,0.12591214442677556,False
+AZ000010-004,Mine dump,Rock / overburden,0.7248031378356219,Higher,2,2,2,1,Unknown,No,copper; gold; silver,3,0.06459554991705352,False
+AZ000011-001,Tailings - pond,Tailings,0.7579716298488236,Higher,2,2,2,1,Unknown,No,copper (2); gold (2); lead (2); manganese (2); silver (2); sulfuric acid (2); zinc (2),7,0.09776404193025523,False
+AZ000011-002,Tailings - pond,Tailings,0.6869093891147248,Higher,2,2,2,1,Unknown,No,copper (2); gold (2); lead (2); manganese (2); silver (2); sulfuric acid (2); zinc (2),7,0.026701801196156394,False
+AZ000011-003,Leach pile - heap,Leach-related,0.7783840633510163,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); lead (1); manganese (1); silver (1); sulfuric acid (1); zinc (1),7,0.11817647543244791,False
+AZ000011-004,Leach pile - heap,Leach-related,0.6161685281513224,Intermediate,2,2,1,2,Unknown,No,copper (1); gold (1); lead (1); manganese (1); silver (1); sulfuric acid (1); zinc (1),7,0.04403905976724598,False
+AZ000011-005,Mine dump,Rock / overburden,0.7073086298276288,Higher,2,2,2,1,Unknown,No,copper; gold; lead; manganese; silver; sulfuric acid; zinc,7,0.04710104190906039,False
+AZ000011-006,Mine dump,Rock / overburden,0.7814521973823967,Higher,2,2,2,1,Unknown,No,copper; gold; lead; manganese; silver; sulfuric acid; zinc,7,0.12124460946382831,False
+AZ000012-001,Tailings - pond,Tailings,0.7970202120463747,Higher,2,2,2,1,No,No,copper (1); gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.13681262412780637,False
+AZ000012-002,Tailings - pond,Tailings,0.9019668303584314,Higher,2,2,2,1,No,No,copper; gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.24175924243986302,False
+AZ000012-003,Leach pile - heap,Leach-related,0.8225658135600686,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.16235822564150026,False
+AZ000012-004,Tailings - pond,Tailings,0.8169512566127343,Higher,2,2,2,1,No,No,copper (1); gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.1567436686941659,False
+AZ000012-005,Waste rock stockpile,Rock / overburden,0.8365685535264434,Higher,2,2,2,1,No,No,copper (1); gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.17636096560787506,False
+AZ000012-006,Leach pile - dump,Leach-related,0.7975285062412724,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.137320918322704,False
+AZ000012-007,Mine dump,Rock / overburden,0.7767299941364283,Higher,2,2,2,1,No,No,copper; gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.11652240621785992,False
+AZ000012-008,Mine dump,Rock / overburden,0.7083891185500429,Higher,2,2,2,1,No,No,copper; gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.04818153063147457,False
+AZ000012-009,Mine dump,Rock / overburden,0.5854695442953319,Intermediate,2,2,2,1,No,No,copper; gold (1); lead (1); molybdenum (1); rhenium (1); silver (1); zinc (1),7,0.07473804362323644,False
+AZ000013-001,Tailings - pond,Tailings,0.7277305973542672,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.06752300943569878,False
+AZ000013-002,Waste rock stockpile,Rock / overburden,0.7007790602287602,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.04057147231019187,False
+AZ000013-003,Slag pile,Process / metallurgical residue,0.5249254841843386,Intermediate,2,2,1,0,Unknown,No,copper; gold; molybdenum; silver,4,0.11130547514517286,False
+AZ000013-004,Waste rock stockpile,Rock / overburden,0.8461522777561943,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.1859446898376259,False
+AZ000013-005,Tailings - pond,Tailings,0.7688263096494103,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.10861872173084197,False
+AZ000013-006,Tailings - pond,Tailings,0.7427465866903549,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.0825389987717865,False
+AZ000013-007,Tailings - pond,Tailings,0.7364816410631634,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.07627405314459501,False
+AZ000014-001,Tailings - pond,Tailings,0.8048454282194977,Higher,2,2,2,1,Unknown,No,copper (2); gold (2); lead (2); molybdenum (2); silver (2); zinc (2),6,0.1446378403009293,False
+AZ000014-002,Leach pile - dump,Leach-related,0.709746974439536,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.049539386520967676,False
+AZ000014-003,Leach pile - dump,Leach-related,0.761434495800828,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.10122690788225963,False
+AZ000014-004,Mine dump,Rock / overburden,0.6106304164461859,Intermediate,2,2,2,1,Unknown,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.0495771714723825,False
+AZ000014-005,Mine dump,Rock / overburden,0.7525061998902509,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.09229861197168254,False
+AZ000014-006,Mine dump,Rock / overburden,0.6943461651460144,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.034138577227446065,False
+AZ000015-001,Tailings - pond,Tailings,0.8423561721197413,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.18214858420117297,False
+AZ000015-002,Tailings - pond,Tailings,0.7632468285982836,Higher,2,2,2,1,Yes,No,copper; gold (1); molybdenum (1); silver (1),4,0.10303924067971526,False
+AZ000015-003,Mine dump,Rock / overburden,0.7767756321173699,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.11656804419880151,False
+AZ000015-004,Tailings - pond,Tailings,0.6502902634259146,Intermediate,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.009917324492653812,True
+AZ000015-005,Tailings - pond,Tailings,0.742844416626576,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.08263682870800759,False
+AZ000015-006,Mine dump,Rock / overburden,0.8810035177787259,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.2207959298601575,False
+AZ000015-007,Mine dump,Rock / overburden,0.8395675869225465,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.17935999900397814,False
+AZ000015-008,Mine dump,Rock / overburden,0.8534911093151555,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.1932835213965871,False
+AZ000015-009,Tailings - pond,Tailings,0.7752287537678866,Higher,2,2,2,1,Yes,No,copper; gold (1); molybdenum (1); silver (1),4,0.11502116584931821,False
+AZ000015-010,Tailings - pond,Tailings,0.7704523887072569,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.11024480078868848,False
+AZ000015-011,Tailings - pond,Tailings,0.7759361906221313,Higher,2,2,2,1,Yes,No,copper; gold (1); molybdenum (1); silver (1),4,0.11572860270356289,False
+AZ000015-012,Tailings - pond,Tailings,0.7425635206985804,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.08235593278001208,False
+AZ000015-013,Mine dump,Rock / overburden,0.6999238520571796,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.03971626413861118,False
+AZ000015-014,Mine dump,Rock / overburden,0.7717745694697313,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.11156698155116296,False
+AZ000015-015,Mine dump,Rock / overburden,0.6924787803652755,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.032271192446707175,False
+AZ000015-016,Mine dump,Rock / overburden,0.7363154198000954,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.07610783188152703,False
+AZ000015-017,Mine dump,Rock / overburden,0.7151218882790008,Higher,2,2,2,1,Unknown,No,copper; gold (1); molybdenum (1); silver (1),4,0.05491430036043243,False
+AZ000016-001,Leach pile - heap,Leach-related,0.7804282437198102,Higher,2,2,1,2,No,No,copper; sulfuric acid,2,0.12022065580124186,False
+AZ000016-002,Leach pile - heap,Leach-related,0.7978977716627623,Higher,2,2,1,2,No,No,copper; sulfuric acid,2,0.13769018374419395,False
+AZ000016-003,Leach pile - heap,Leach-related,0.7769857777097885,Higher,2,2,1,2,No,No,copper; sulfuric acid,2,0.11677818979122012,False
+AZ000016-004,Mine dump,Rock / overburden,0.8214800461993135,Higher,2,2,2,1,No,No,copper; sulfuric acid,2,0.1612724582807451,False
+AZ000016-005,Waste rock stockpile,Rock / overburden,0.7187663583054386,Higher,2,2,2,1,No,No,copper; sulfuric acid,2,0.058558770386870185,False
+AZ000016-006,Waste rock stockpile,Rock / overburden,0.8446696092464179,Higher,2,2,2,1,No,No,copper; sulfuric acid,2,0.1844620213278495,False
+AZ000016-007,Mine dump,Rock / overburden,0.8077291153332986,Higher,2,2,2,1,No,No,copper; sulfuric acid,2,0.14752152741473024,False
+AZ000016-008,Mine dump,Rock / overburden,0.7148207941487645,Higher,2,2,2,1,No,No,copper; sulfuric acid,2,0.054613206230196165,False
+AZ000016-009,Mine dump,Rock / overburden,0.7224885201362602,Higher,2,2,2,1,No,No,copper; sulfuric acid,2,0.06228093221769182,False
+AZ000016-010,Mine dump,Rock / overburden,0.7291039230671505,Higher,2,2,2,1,No,No,copper; sulfuric acid,2,0.06889633514858218,False
+AZ000017-001,Tailings - pond,Tailings,0.7735936932725678,Higher,2,2,2,1,No,No,copper; gold; lead; molybdenum; silver; zinc,6,0.1133861053539994,False
+AZ000017-002,Leach pile - heap,Leach-related,0.7842973471550264,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.12408975923645804,False
+AZ000017-003,Leach pile - heap,Leach-related,0.6200466720666008,Intermediate,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.04016091585196757,False
+AZ000017-004,Leach pile - heap,Leach-related,0.7000595261160033,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.03985193819743493,False
+AZ000017-005,Leach pile - heap,Leach-related,0.7199256983569101,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.05971811043834174,False
+AZ000017-006,Leach pile - heap,Leach-related,0.7238525518955117,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.0636449639769433,False
+AZ000017-007,Overburden pile,Rock / overburden,0.6803040419767771,Higher,2,2,2,1,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.0200964540582087,False
+AZ000017-008,Leach pile - heap,Leach-related,0.7330703066148778,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.07286271869630945,False
+AZ000017-009,Overburden pile,Rock / overburden,0.6897890463379208,Higher,2,2,2,1,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.029581458419352447,False
+AZ000017-010,Leach pile - heap,Leach-related,0.6896743240208953,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.029466736102326974,False
+AZ000017-011,Overburden pile,Rock / overburden,0.6949543727556933,Higher,2,2,2,1,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.0347467848371249,False
+AZ000017-012,Leach pile - heap,Leach-related,0.6842103373925943,Higher,2,2,1,2,No,No,copper (1); gold (1); lead (1); molybdenum (1); silver (1); zinc (1),6,0.02400274947402592,False
+AZ000018-001,Leach pile - dump,Leach-related,0.6830831176500237,Higher,2,2,1,2,Unknown,No,copper; gold; lead; silver; zinc,5,0.022875529731455346,False
+AZ000018-002,Mine dump,Rock / overburden,0.6602075879185684,Intermediate,2,2,2,1,Unknown,No,copper; gold; lead; silver; zinc,5,0.0,True
+AZ000019-001,Tailings - pond,Tailings,0.8777267982099997,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.2175192102914313,False
+AZ000019-002,Tailings - pond,Tailings,0.776351853594813,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.11614426567624458,False
+AZ000019-003,Tailings - pond,Tailings,0.7775856426168892,Higher,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.11737805469832086,False
+AZ000019-004,Tailings - pond,Tailings,0.6265619152024787,Intermediate,2,2,2,1,Unknown,No,copper; gold; molybdenum; silver,4,0.03364567271608965,False
+AZ000019-005,Leach pile - heap,Leach-related,0.7499374156995814,Higher,2,2,1,2,Unknown,No,copper; gold; molybdenum; silver,4,0.08972982778101302,False
+AZ000020-001,Tailings - mill,Tailings,0.6244181106188418,Intermediate,2,2,2,1,No,Yes,cadmium (1); copper; gold; lead; silver; zinc,6,0.03578947729972659,False
+AZ000021-001,Tailings - pond,Tailings,0.7942474476179968,Higher,2,2,2,1,Unknown,Yes,copper (2); gold (2); silver (2),3,0.13403985969942844,False
+AZ000021-002,Tailings - pond,Tailings,0.827169475590587,Higher,2,2,2,1,Unknown,Yes,copper (2); gold (2); silver (2),3,0.16696188767201858,False
+AZ000021-003,Tailings - pond,Tailings,0.8597830655452275,Higher,2,2,2,1,Unknown,No,copper (1); gold (1); silver (1),3,0.19957547762665917,False
+AZ000021-004,Leach pile - dump,Leach-related,0.8402710797398376,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); silver (1),3,0.18006349182126924,False
+AZ000021-005,Leach pile - dump,Leach-related,0.7610888454713466,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); silver (1),3,0.10088125755277821,False
+AZ000021-006,Leach pile - dump,Leach-related,0.7830157441039628,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); silver (1),3,0.12280815618539442,False
+AZ000021-007,Leach pile - dump,Leach-related,0.7820693717912653,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); silver (1),3,0.12186178387269697,False
+AZ000021-008,Leach pile - dump,Leach-related,0.6721473685654038,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); silver (1),3,0.01193978064683543,True
+AZ000021-009,Leach pile - dump,Leach-related,0.8213068900539797,Higher,2,2,1,2,Unknown,No,copper (1); gold (1); silver (1),3,0.16109930213541135,False
+AZ000021-010,Leach pile - dump,Leach-related,0.5863527456935133,Intermediate,2,2,1,2,Unknown,No,copper (1); gold (1); silver (1),3,0.07385484222505512,False
+AZ000022-001,Tailings - pond,Tailings,0.7008462602968015,Higher,2,2,2,1,Unknown,No,copper; gold; silver,3,0.040638672378233154,False
+AZ000022-002,Overburden pile,Rock / overburden,0.6044041826491838,Intermediate,2,2,2,1,Unknown,No,copper; gold; silver,3,0.05580340526938454,False
+AZ000022-003,Overburden pile,Rock / overburden,0.5903232678532738,Intermediate,2,2,2,1,Unknown,No,copper; gold; silver,3,0.06988432006529455,False
+AZ000022-004,Overburden pile,Rock / overburden,0.5406570345675328,Intermediate,2,2,2,1,Unknown,No,copper; gold; silver,3,0.1195505533510356,False
+AZ000023-001,Leach pile - heap,Leach-related,0.7067097454674546,Higher,2,2,1,2,Unknown,No,copper (2); silver (2),2,0.0465021575488862,False
+AZ000023-002,Mine dump,Rock / overburden,0.7343844057735089,Higher,2,2,2,1,Unknown,No,copper (1); silver (1),2,0.07417681785494057,False
+AZ000023-003,Mine dump,Rock / overburden,0.6480794995381722,Intermediate,2,2,2,1,Unknown,No,copper (1); silver (1),2,0.01212808838039614,True
+CO000001-001,Tailings - pond,Tailings,0.5962262880706357,Intermediate,2,2,2,1,Yes,Yes,molybdenum,1,0.06398129984793266,False
+CO000001-002,Tailings - pond,Tailings,0.6484300236399013,Intermediate,2,2,2,1,Yes,Yes,molybdenum,1,0.011777564278667052,True
+CO000001-003,Tailings - pond,Tailings,0.8510293696130377,Higher,2,2,2,1,No,No,molybdenum,1,0.19082178169446928,False
+CO000002-001,Tailings - pond,Tailings,0.8311931086070014,Higher,2,2,2,1,No,No,molybdenum (2); pyrite (3); tin (2); tungsten (2),4,0.17098552068843298,False
+CO000002-002,Tailings - pond,Tailings,0.7943478680598326,Higher,2,2,2,1,Yes,No,molybdenum (2); pyrite (3); tin (2); tungsten (2),4,0.13414028014126422,False
+CO000002-003,Tailings - pond,Tailings,0.7900445457986369,Higher,2,2,2,1,No,No,molybdenum (1); pyrite (2); tin (1); tungsten (1),4,0.12983695788006855,False
+CO000003-001,Tailings - pond,Tailings,0.6744634032964981,Higher,2,2,2,1,Yes,No,gold (1); lead (1); silver (1),3,0.014255815377929748,True
+CO000004-001,Tailings - pond,Tailings,0.6121078248872831,Intermediate,2,2,2,1,Yes,Yes,copper; gold; iron (1); lead; manganese (1); silver; zinc,7,0.04809976303128527,False
+CO000005-001,Tailings - pond,Tailings,0.6027353066006929,Intermediate,2,2,2,1,Yes,No,copper (2); gold (2); lead (2); silver (2); zinc (2),5,0.05747228131787552,False
+CO000006-001,Tailings - placer,Tailings,0.6638750189714896,Higher,2,2,2,1,No,No,gold; silver (1),2,0.0036674310529212217,True
+CO000007-001,Tailings - dredge,Tailings,0.7423774026055489,Higher,2,2,2,1,No,No,gold; silver,2,0.08216981468698048,False
+CO000008-001,Tailings - placer,Tailings,0.6435056217874977,Intermediate,2,2,2,1,No,No,gold; silver (1),2,0.016701966131070667,True
+CO000009-001,Tailings - dredge,Tailings,0.7210514115176883,Higher,2,2,2,1,No,No,gold; silver,2,0.060843823599119884,False
+CO000010-001,Tailings - placer,Tailings,0.536881762125884,Intermediate,2,2,2,1,No,No,gold,1,0.12326175308671827,False
+CO000011-001,Tailings - dredge,Tailings,0.6925329480144766,Higher,2,2,2,1,No,No,gold; silver (1),2,0.03232536009590825,False
+CO000012-001,Tailings - dredge,Tailings,0.6637174362694007,Higher,2,2,2,1,No,No,gold,1,0.0035098483508323453,True
+CO000013-001,Leach pile - heap,Leach-related,0.853215232406049,Higher,2,2,1,2,No,No,gold (1); silver (1),2,0.19300764448748065,False
+KY000001-001,Tailings - pond,Tailings,0.44912839271935906,Intermediate,2,2,2,1,Unknown,No,barite (1); fluorite (1); lead (1); zinc (1),4,0.03550838368019332,False
+KY000001-002,Tailings - pond,Tailings,0.32171568894276137,Lower,2,2,2,1,Unknown,No,barite (1); fluorite (1); lead (1); zinc (1),4,0.09190432009640437,False
+KY000001-003,Tailings - pond,Tailings,0.3291250084918584,Lower,2,2,2,1,Unknown,No,barite (1); fluorite (1); lead (1); zinc (1),4,0.08449500054730735,False
+KY000002-001,Tailings - pond,Tailings,0.32883264700329157,Lower,2,2,2,1,Unknown,No,barite (1); fluorite (1); lead (1); zinc (1),4,0.08478736203587417,False
+KY000002-002,Tailings - pond,Tailings,0.29037356174663975,Lower,2,2,2,1,Unknown,No,barite (1); fluorite (1); lead (1); zinc (1),4,0.12324644729252598,False
+KY000003-001,Tailings - pond,Tailings,0.368051458093449,Lower,2,2,2,1,Unknown,No,zinc,1,0.04556855094571671,False
+KY000003-002,Tailings - pond,Tailings,0.38743489325714814,Lower,2,2,2,1,Unknown,No,zinc,1,0.0261851157820176,False
+KY000003-003,Tailings - pond,Tailings,0.3002951102089991,Lower,2,2,2,1,Unknown,No,zinc,1,0.11332489883016661,False
+KY000004-001,Tailings - pond,Tailings,0.23961597521939523,Lower,2,2,2,1,Unknown,No,barite (1); fluorite (1),2,0.1740040338197705,False
+KY000005-001,Tailings - mill,Tailings,0.2691724734512885,Lower,2,2,2,1,Unknown,No,fluorite; zinc,2,0.14444753558787726,False
+KY000005-002,Tailings - mill,Tailings,0.33001024609440255,Lower,2,2,2,1,Unknown,No,fluorite; zinc,2,0.08360976294476319,False
+KY000005-003,Tailings - mill,Tailings,0.2967786325785605,Lower,2,2,2,1,Unknown,No,fluorite; zinc,2,0.11684137646060522,False
+KY000006-001,Tailings - mill,Tailings,0.3773081345787377,Lower,2,2,2,1,Unknown,No,barite,1,0.03631187446042805,False
+KY000006-002,Tailings - mill,Tailings,0.25403679268033946,Lower,2,2,2,1,Unknown,No,barite,1,0.15958321635882627,False
+KY000006-003,Tailings - mill,Tailings,0.2863367283600569,Lower,2,2,2,1,Unknown,No,barite,1,0.12728328067910882,False
+KY000006-004,Tailings - mill,Tailings,0.32486781051870633,Lower,2,2,2,1,Unknown,No,barite,1,0.0887521985204594,False
+KY000006-005,Tailings - mill,Tailings,0.3100791513408803,Lower,2,2,2,1,Unknown,No,barite,1,0.10354085769828542,False
+KY000006-006,Tailings - mill,Tailings,0.29670732822630264,Lower,2,2,2,1,Unknown,No,barite,1,0.1169126808128631,False
+KY000006-007,Tailings - mill,Tailings,0.11418098154456748,Lower,2,2,2,1,Unknown,No,barite,1,0.2994390274945983,False
+KY000006-008,Tailings - mill,Tailings,0.2761699630210634,Lower,2,2,2,1,Unknown,No,barite,1,0.13745004601810235,False
+KY000007-001,Tailings - mill,Tailings,0.06795183597502578,Lower,2,2,2,1,Unknown,No,fluorite; lead; zinc,3,0.34566817306413994,False
+KY000007-002,Tailings - pond,Tailings,0.0,Lower,2,2,2,1,Unknown,No,fluorite; lead; zinc,3,0.41362000903916574,False
+KY000007-003,Tailings - pond,Tailings,0.03468629942602015,Lower,2,2,2,1,Unknown,No,fluorite; lead; zinc,3,0.3789337096131456,False
+KY000007-004,Tailings - pond,Tailings,0.03272225572080802,Lower,2,2,2,1,Unknown,No,fluorite; lead; zinc,3,0.38089775331835773,False
+KY000007-005,Tailings - pond,Tailings,0.07336420479580853,Lower,2,2,2,1,Unknown,No,fluorite; lead; zinc,3,0.3402558042433572,False
+MI000001-001,Tailings - pond,Tailings,0.5732065302981718,Intermediate,2,2,2,1,Unknown,No,copper; gold (1); nickel; silver (1),4,0.08700105762039656,False
+MI000001-002,Mine dump,Rock / overburden,0.5722200582492507,Intermediate,2,2,2,1,Unknown,No,iron (1),1,0.08798752966931767,False
+MI000001-003,Mine dump,Rock / overburden,0.5664236148218503,Intermediate,2,2,2,1,Unknown,No,iron (1),1,0.09378397309671804,False
+MI000001-004,Tailings - pond,Tailings,0.5829263742512528,Intermediate,2,2,2,1,Unknown,No,iron (1),1,0.07728121366731555,False
+MI000001-005,Tailings - pond,Tailings,0.5711061588554175,Intermediate,2,2,2,1,Unknown,No,iron (1),1,0.08910142906315088,False
+MI000001-006,Tailings - pond,Tailings,0.4675839048654814,Intermediate,2,2,2,1,Unknown,No,iron (1),1,0.053963895826315667,False
+MI000001-007,Tailings - pond,Tailings,0.5357005810697943,Intermediate,2,2,2,1,Unknown,No,iron (1),1,0.12208057203062861,False
+MI000001-008,Tailings - pond,Tailings,0.5153928370793781,Intermediate,2,2,2,1,Unknown,No,iron (1),1,0.10177282804021237,False
+MI000002-001,Mine dump,Rock / overburden,0.19847273609911067,Lower,2,2,2,1,Unknown,No,iron,1,0.21514727294005506,False
+MI000002-002,Mine dump,Rock / overburden,0.24847327778324516,Lower,2,2,2,1,Unknown,No,iron,1,0.16514673125592058,False
+MI000003-001,Tailings - pond,Tailings,0.771511358912361,Higher,2,2,2,1,Unknown,No,iron,1,0.11130377099379263,False
+MI000003-002,Tailings - pond,Tailings,0.5512600952993334,Intermediate,2,2,2,1,Unknown,No,iron,1,0.10894749261923498,False
+MI000003-003,Tailings - pond,Tailings,0.5821236341016546,Intermediate,2,2,2,1,Unknown,No,iron,1,0.0780839538169138,False
+MI000003-004,Mine dump,Rock / overburden,0.6524570874540023,Intermediate,2,2,2,1,Unknown,No,iron,1,0.007750500464566046,True
+MI000003-005,Mine dump,Rock / overburden,0.7159200378890009,Higher,2,2,2,1,Unknown,No,iron,1,0.055712449970432565,False
+MI000004-001,Mine dump,Rock / overburden,0.2171332493157504,Lower,2,2,2,1,Unknown,No,iron,1,0.19648675972341534,False
+MI000005-001,Mine dump,Rock / overburden,0.2372774927118213,Lower,2,2,2,1,Unknown,No,iron,1,0.17634251632734443,False
+MI000006-001,Mine dump,Rock / overburden,0.27378559969132693,Lower,2,2,2,1,Unknown,No,iron,1,0.1398344093478388,False
+MI000007-001,Mine dump,Rock / overburden,0.23971145033179822,Lower,2,2,2,1,Unknown,No,iron,1,0.17390855870736752,False
+MI000008-001,Mine dump,Rock / overburden,0.3385038522242783,Lower,2,2,2,1,Unknown,No,iron,1,0.07511615681488742,False
+MI000009-001,Tailings - pond,Tailings,0.8448658473580192,Higher,2,2,2,1,Unknown,No,iron (1),1,0.1846582594394508,False
+MI000009-002,Tailings - pond,Tailings,0.7765210122560504,Higher,2,2,2,1,Unknown,No,iron (1),1,0.11631342433748204,False
+MI000009-003,Tailings - pond,Tailings,0.7601306715459115,Higher,2,2,2,1,Unknown,No,iron (1),1,0.09992308362734315,False
+MI000010-001,Tailings - mill,Tailings,0.4640730080614767,Intermediate,2,2,2,1,Unknown,No,copper (1),1,0.050452999022310985,False
+MI000011-001,Mine dump,Rock / overburden,0.33954281268798037,Lower,2,2,2,1,Unknown,No,iron (1),1,0.07407719635118537,False
+MI000012-001,Mine dump,Rock / overburden,0.3079455626235856,Lower,2,2,2,1,Unknown,No,iron,1,0.10567444641558016,False
+MI000012-002,Mine dump,Rock / overburden,0.24075255559092953,Lower,2,2,2,1,Unknown,No,iron,1,0.1728674534482362,False
+MI000013-001,Mine dump,Rock / overburden,0.36844871802671797,Lower,2,2,2,1,Unknown,No,iron,1,0.04517129101244777,False
+MI000014-001,Mine dump,Rock / overburden,0.2611473581676012,Lower,2,2,2,1,Unknown,No,iron,1,0.15247265087156453,False
+MI000015-001,Mine dump,Rock / overburden,0.23058711323573397,Lower,2,2,2,1,Unknown,No,iron,1,0.18303289580343177,False
+MI000016-001,Tailings - pond,Tailings,0.8368903720495029,Higher,2,2,2,1,Unknown,No,copper (1); silver (1),2,0.17668278413093452,False
+MI000016-002,Tailings - pond,Tailings,0.7102827716610083,Higher,2,2,2,1,Unknown,No,copper (1); silver (1),2,0.05007518374243991,False
+MI000016-003,Tailings - pond,Tailings,0.6893028429141612,Higher,2,2,2,1,Unknown,No,copper (1); silver (1),2,0.029095254995592845,False
+MI000016-004,Slag pile,Process / metallurgical residue,0.49282394145293923,Intermediate,2,2,1,0,Unknown,No,copper (1); silver (1),2,0.07920393241377349,False
+MI000017-001,Tailings - mill,Tailings,0.5572710768531606,Intermediate,2,2,2,1,Unknown,No,copper (1),1,0.1029365110654078,False
+MT000001-001,Slag pile,Process / metallurgical residue,0.3285165588892167,Lower,2,2,1,0,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.08510345014994902,False
+MT000001-002,Slag pile,Process / metallurgical residue,0.4683552138006648,Intermediate,2,2,1,0,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.05473520476149907,False
+MT000001-003,Slag pile,Process / metallurgical residue,0.43856447073549043,Intermediate,2,2,1,0,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.024944461696324693,False
+MT000001-004,Tailings - pond,Tailings,0.8754674818587083,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.2152598939401399,False
+MT000001-005,Tailings - pond,Tailings,0.743746011093927,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.08353842317535864,False
+MT000001-006,Slag pile,Process / metallurgical residue,0.6195738776351802,Intermediate,2,2,1,0,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.040633710283388136,False
+MT000002-001,Tailings - undifferentiated,Tailings,0.3890888044671939,Lower,2,2,2,1,No,No,gold,1,0.024531204571971832,False
+MT000003-001,Tailings - mill,Tailings,0.25552289233126524,Lower,2,2,2,1,No,No,gold,1,0.1580971167079005,False
+MT000004-001,Leach pile - heap,Leach-related,0.6752261082286042,Higher,2,2,1,2,No,Yes,gold,1,0.01501852031003581,True
+MT000004-002,Ore stockpile/storage,Ore / mineralized stockpile,0.45951305858062,Intermediate,2,1,1,0,No,Yes,gold,1,0.04589304954145429,False
+MT000004-003,Mine dump,Rock / overburden,0.6531558310274053,Intermediate,2,2,2,1,No,Yes,gold,1,0.007051756891163108,True
+MT000005-001,Leach pile - heap,Leach-related,0.5413257645001388,Intermediate,2,2,1,2,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.11888182341842957,False
+MT000005-002,Leach pile - heap,Leach-related,0.5642721088797114,Intermediate,2,2,1,2,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.09593547903885702,False
+MT000005-003,Leach pile - heap,Leach-related,0.5024964626687176,Intermediate,2,2,1,2,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.08887645362955188,False
+MT000005-004,Leach pile - dump,Leach-related,0.6937542773538711,Higher,2,2,1,2,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.0335466894353027,False
+MT000005-005,Leach pile - dump,Leach-related,0.7046885898056588,Higher,2,2,1,2,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.04448100188709048,False
+MT000005-006,Leach pile - dump,Leach-related,0.5269608775459913,Intermediate,2,2,1,2,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.11334086850682557,False
+MT000006-001,Mine dump,Rock / overburden,0.3698882242002457,Lower,2,2,2,1,No,No,copper (1); lead (1); silver (1); zinc (1),4,0.04373178483892004,False
+MT000007-001,Tailings - mill,Tailings,0.4268783260478592,Intermediate,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.013258317008693454,True
+MT000007-002,Tailings - mill,Tailings,0.4021212434132131,Lower,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.011498765625952645,True
+MT000008-001,Mine dump,Rock / overburden,0.3532812091502757,Lower,2,2,2,1,No,No,gold; silver (1),2,0.060338799888890016,False
+MT000009-001,Tailings - undifferentiated,Tailings,0.386730444382544,Lower,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.026889564656621734,False
+MT000009-002,Slag pile,Process / metallurgical residue,0.14686687328741135,Lower,2,2,1,0,No,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.2667531357517544,False
+MT000009-003,Slag pile,Process / metallurgical residue,0.17005000062119877,Lower,2,2,1,0,No,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.24357000841796697,False
+MT000009-004,Slag pile,Process / metallurgical residue,0.23181451707293638,Lower,2,2,1,0,No,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.18180549196622936,False
+MT000010-001,Mine dump,Rock / overburden,0.4691709536312792,Intermediate,2,2,2,1,No,No,tungsten,1,0.05555094459211346,False
+MT000011-001,Tailings - undifferentiated,Tailings,0.10834414650867663,Lower,2,2,2,1,No,Yes,gold (1); lead (1); silver (1),3,0.3052758625304891,False
+MT000011-002,Tailings - undifferentiated,Tailings,0.30284813777932024,Lower,2,2,2,1,No,Yes,gold (1); lead (1); silver (1),3,0.1107718712598455,False
+MT000012-001,Tailings - mill,Tailings,0.20009801426324922,Lower,2,2,2,1,Yes,No,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.21352199477591652,False
+MT000013-001,Tailings - pond,Tailings,0.7976315893596918,Higher,2,2,2,1,No,Yes,copper (1); molybdenum (1); silver (1),3,0.13742400144112343,False
+MT000013-002,Overburden pile,Rock / overburden,0.7893305443412129,Higher,2,2,2,1,No,Yes,copper (1); molybdenum (1); silver (1),3,0.12912295642264449,False
+MT000014-001,Tailings - mill,Tailings,0.37005820278730045,Lower,2,2,2,1,No,No,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.04356180625186529,False
+MT000014-002,Mine dump,Rock / overburden,0.39636239224925524,Lower,2,2,2,1,Yes,No,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.0172576167899105,True
+MT000014-003,Mine dump,Rock / overburden,0.4608401752938625,Intermediate,2,2,2,1,Yes,No,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.04722016625469677,False
+MT000015-001,Tailings - pond,Tailings,0.3853605622794349,Lower,2,2,2,1,Yes,No,copper; gold; silver,3,0.028259446759730855,False
+MT000016-001,Mine dump,Rock / overburden,0.372503192737901,Lower,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.041116816301264736,False
+MT000018-001,Mine dump,Rock / overburden,0.26249555366762684,Lower,2,2,2,1,Yes,No,copper,1,0.1511244553715389,False
+MT000018-002,Mine dump,Rock / overburden,0.37817088791299086,Lower,2,2,2,1,Yes,No,copper,1,0.035449121126174876,False
+MT000019-001,Tailings - mill,Tailings,0.3595242695587775,Lower,2,2,2,1,No,No,copper; gold; lead; silver,4,0.05409573948038826,False
+MT000020-001,Mine dump,Rock / overburden,0.8305885558656881,Higher,2,2,2,1,No,No,copper (1); gold; silver (1),3,0.17038096794711977,False
+MT000020-002,Mine dump,Rock / overburden,0.7264428774939542,Higher,2,2,2,1,No,No,copper (1); gold; silver (1),3,0.06623528957538583,False
+MT000020-003,Mine dump,Rock / overburden,0.7414604407314568,Higher,2,2,2,1,No,No,copper (1); gold; silver (1),3,0.08125285281288841,False
+MT000020-004,Mine dump,Rock / overburden,0.8035759467989182,Higher,2,2,2,1,No,No,copper (1); gold; silver (1),3,0.14336835888034982,False
+MT000020-005,Mine dump,Rock / overburden,0.8030599876459312,Higher,2,2,2,1,Yes,No,copper (1); gold; silver (1),3,0.14285239972736286,False
+MT000020-006,Tailings - pond,Tailings,0.6941482724247752,Higher,2,2,2,1,Yes,No,copper (1); gold; pyrite (2); silver (1),4,0.0339406845062068,False
+MT000020-007,Tailings - pond,Tailings,0.7377303425847882,Higher,2,2,2,1,No,No,copper (1); gold; silver (1),3,0.07752275466621983,False
+MT000021-001,Tailings - undifferentiated,Tailings,0.4795094861974305,Intermediate,2,2,2,1,No,Yes,copper; gold; lead; manganese; silver; zinc,6,0.06588947715826476,False
+MT000021-002,Mine dump,Rock / overburden,0.5224328170046234,Intermediate,2,2,2,1,No,Yes,copper; gold; lead; manganese; silver; zinc,6,0.10881280796545767,False
+MT000022-001,Tailings - mill,Tailings,0.4329138093765976,Intermediate,2,2,2,1,No,No,gold (1),1,0.019293800337431888,True
+MT000023-001,Mine dump,Rock / overburden,0.2937337424004652,Lower,2,2,2,1,No,No,gold (1); copper (1); lead (1); silver (1); zinc (1),5,0.11988626663870056,False
+MT000024-001,Mine dump,Rock / overburden,0.6751272823763653,Higher,2,2,2,1,No,Yes,gold; silver (1),2,0.01491969445779695,True
+MT000024-002,Leach pile - heap,Leach-related,0.6132407050253323,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.04696688289323603,False
+MT000024-003,Leach pile - heap,Leach-related,0.7170994128697434,Higher,2,2,1,2,No,Yes,gold; silver (1),2,0.05689182495117506,False
+MT000024-004,Leach pile - heap,Leach-related,0.7160889198400933,Higher,2,2,1,2,No,Yes,gold; silver (1),2,0.05588133192152489,False
+MT000024-005,Mine dump,Rock / overburden,0.6188800872295818,Intermediate,2,2,2,1,No,Yes,gold; silver (1),2,0.04132750068898661,False
+MT000024-006,Mine dump,Rock / overburden,0.7065629967302901,Higher,2,2,2,1,No,Yes,gold; silver (1),2,0.04635540881172173,False
+MT000024-007,Mine dump,Rock / overburden,0.5274213874740734,Intermediate,2,2,2,1,No,Yes,gold; silver (1),2,0.11380137843490767,False
+MT000024-008,Mine dump,Rock / overburden,0.4929549469068792,Intermediate,2,2,2,1,No,Yes,gold; silver (1),2,0.07933493786771345,False
+MT000024-009,Leach pile - heap,Leach-related,0.3540723398425377,Lower,2,2,1,2,No,Yes,gold; silver (1),2,0.05954766919662802,False
+MT000024-010,Leach pile - heap,Leach-related,0.5979286086236034,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.06227897929496495,False
+MT000024-011,Leach pile - heap,Leach-related,0.5219294743344587,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.10830946529529295,False
+MT000024-012,Leach pile - heap,Leach-related,0.49083558421463225,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.07721557517546651,False
+MT000025-001,Tailings - pond,Tailings,0.7620234795295878,Higher,2,2,2,1,No,No,gold; lead; silver; zinc,4,0.10181589161101945,False
+MT000025-002,Mine dump,Rock / overburden,0.8167606385350449,Higher,2,2,2,1,No,No,gold; lead; silver; zinc,4,0.1565530506164765,False
+MT000026-001,Tailings - undifferentiated,Tailings,0.6227437171899322,Intermediate,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.03746387072863622,False
+MT000026-002,Tailings - undifferentiated,Tailings,0.6197767377498111,Intermediate,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); manganese (1); silver (1); zinc (1),6,0.04043085016875725,False
+MT000027-001,Mine dump,Rock / overburden,0.6058171728287502,Intermediate,2,2,2,1,No,No,talc,1,0.05439041508981812,False
+MT000028-001,Mine dump,Rock / overburden,0.5282768923461084,Intermediate,2,2,2,1,No,No,fluorite,1,0.11465688330694268,False
+MT000029-001,Mine dump,Rock / overburden,0.5881518671452677,Intermediate,2,2,2,1,No,Yes,gold; silver (1),2,0.07205572077330069,False
+MT000029-002,Tailings - undifferentiated,Tailings,0.5952457284849537,Intermediate,2,2,2,1,No,Yes,gold; silver (1),2,0.06496185943361465,False
+MT000029-003,Mine dump,Rock / overburden,0.5909156577642665,Intermediate,2,2,2,1,No,Yes,gold; silver (1),2,0.0692919301543019,False
+MT000029-004,Mine dump,Rock / overburden,0.6446404257732219,Intermediate,2,2,2,1,No,Yes,gold; silver (1),2,0.01556716214534648,True
+MT000029-005,Leach pile - heap,Leach-related,0.538283883232682,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.12192370468588642,False
+MT000029-006,Leach pile - heap,Leach-related,0.5242682575492921,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.11064824851012633,False
+MT000029-007,Leach pile - heap,Leach-related,0.5224846048817787,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.10886459584261299,False
+MT000029-008,Leach pile - heap,Leach-related,0.5719282689707985,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.08827931894776986,False
+MT000029-009,Leach pile - heap,Leach-related,0.6189286883273684,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.04127889959120001,False
+MT000029-010,Leach pile - heap,Leach-related,0.5141002123958932,Intermediate,2,2,1,2,No,Yes,gold; silver (1),2,0.10048020335672747,False
+NC000001-001,Gypsum stack,Process / metallurgical residue,0.6225237611765898,Intermediate,2,2,1,0,Unknown,No,phosphate rock (1),1,0.037683826741978566,False
+NC000001-002,Gypsum stack,Process / metallurgical residue,0.6006313140245941,Intermediate,2,2,1,0,Unknown,No,phosphate rock (1),1,0.05957627389397424,False
+NC000001-003,Gypsum stack,Process / metallurgical residue,0.6422126922145049,Intermediate,2,2,1,0,Unknown,No,phosphate rock (1),1,0.01799489570406343,True
+NC000001-004,Phosphate pond,Water / process pond,0.7447662571740247,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.0845586692554563,False
+NC000001-005,Phosphate pond,Water / process pond,0.6290885848389878,Intermediate,1,2,1,2,Unknown,No,phosphate rock (1),1,0.0311190030795806,False
+NC000001-006,Phosphate pond,Water / process pond,0.6008467220141425,Intermediate,1,2,1,2,Unknown,No,phosphate rock (1),1,0.05936086590442591,False
+NC000001-007,Phosphate pond,Water / process pond,0.6351689720839906,Intermediate,1,2,1,2,Unknown,No,phosphate rock (2),1,0.025038615834577782,False
+NC000001-008,Phosphate pond,Water / process pond,0.6992056347869634,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.03899804686839503,False
+NC000001-009,Phosphate pond,Water / process pond,0.6651739925279134,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.004966404609345054,True
+NC000001-010,Settling pond,Water / process pond,0.674595133768963,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.01438754585039459,True
+NC000001-011,Phosphate pond,Water / process pond,0.6776108658342269,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.017403277915658544,True
+NC000001-012,Phosphate pond,Water / process pond,0.7106259111729399,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.050418323254371566,False
+NC000001-013,Phosphate pond,Water / process pond,0.7560690653019194,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.09586147738335105,False
+NC000001-014,Phosphate pond,Water / process pond,0.6207807814617874,Intermediate,1,2,1,2,Unknown,No,phosphate rock (1),1,0.03942680645678098,False
+NC000001-015,Phosphate pond,Water / process pond,0.6766863386522919,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.016478750733723513,True
+NC000001-016,Settling pond,Water / process pond,0.6846606806503424,Higher,1,2,1,2,Unknown,No,phosphate rock (1),1,0.024453092731773984,False
+NC000002-001,Tailings - pond,Tailings,0.5033217277444092,Intermediate,2,2,2,1,Unknown,Yes,copper; gold; silver,3,0.08970171870524346,False
+NC000003-001,Tailings - pond,Tailings,0.5475661646275265,Intermediate,2,2,2,1,Unknown,No,copper (2); silver (2); tungsten (2),3,0.11264142329104188,False
+NC000004-001,Tailings - pond,Tailings,0.4756470936046782,Intermediate,2,2,2,1,Unknown,No,lithium (2),1,0.06202708456551248,False
+NC000004-002,Tailings - pond,Tailings,0.42897903766951023,Intermediate,2,2,2,1,Unknown,No,lithium (2),1,0.015359028630344496,True
+NC000004-003,Tailings - pond,Tailings,0.3537409837334766,Lower,2,2,2,1,Unknown,No,lithium (2),1,0.059879025305689115,False
+NC000004-004,Tailings - pond,Tailings,0.5056618261746768,Intermediate,2,2,2,1,Unknown,No,lithium (2),1,0.09204181713551107,False
+NC000004-005,Tailings - pond,Tailings,0.5715445237259937,Intermediate,2,2,2,1,Unknown,No,lithium (2),1,0.08866306419257464,False
+NC000004-006,Mine dump,Rock / overburden,0.6847249077027511,Higher,2,2,2,1,Unknown,No,lithium (1),1,0.0245173197841827,False
+NC000005-001,Ore stockpile/storage,Ore / mineralized stockpile,0.3426608047716966,Lower,2,1,1,0,Unknown,No,mica,1,0.07095920426746916,False
+NC000005-002,Overburden pile,Rock / overburden,0.38939282044187074,Lower,2,2,2,1,Unknown,No,mica,1,0.024227188597295002,False
+NC000005-003,Overburden pile,Rock / overburden,0.4145551306983441,Intermediate,2,2,2,1,Unknown,No,mica,1,0.0009351216591783618,True
+NC000006-001,Tailings - undifferentiated,Tailings,0.3622835413939432,Lower,2,2,2,1,Unknown,No,iron,1,0.05133646764522254,False
+NC000006-002,Mine dump,Rock / overburden,0.31945730868800987,Lower,2,2,2,1,Unknown,No,iron,1,0.09416270035115587,False
+NC000006-003,Mine dump,Rock / overburden,0.2095815549973517,Lower,2,2,2,1,Unknown,No,iron,1,0.20403845404181403,False
+NC000006-004,Mine dump,Rock / overburden,0.14323642849532003,Lower,2,2,2,1,Unknown,No,iron,1,0.2703835805438457,False
+NC000006-005,Mine dump,Rock / overburden,0.3395453937638985,Lower,2,2,2,1,Unknown,No,iron,1,0.07407461527526726,False
+NC000006-006,Mine dump,Rock / overburden,0.376271846261238,Lower,2,2,2,1,Unknown,No,iron,1,0.03734816277792774,False
+NC000007-001,Tailings - pond,Tailings,0.6207266118361594,Intermediate,2,2,2,1,Unknown,No,feldspar (2); lithium (2); mica (2),3,0.03948097608240897,False
+NC000008-001,Settling pond,Water / process pond,0.37738861619860314,Lower,1,2,1,2,Unknown,No,andalusite; pyrophyllite,2,0.03623139284056259,False
+NC000008-002,Settling pond,Water / process pond,0.2185121692659475,Lower,1,2,1,2,Unknown,No,andalusite; pyrophyllite,2,0.19510783977321824,False
+NC000009-001,Tailings - undifferentiated,Tailings,0.5653231053307859,Intermediate,2,2,2,1,Unknown,No,feldspar (1); mica (1); quartz (1),3,0.09488448258778248,False
+NC000009-002,Mine dump,Rock / overburden,0.5926352288100121,Intermediate,2,2,2,1,Unknown,No,feldspar (1); mica (1); quartz (1),3,0.0675723591085563,False
+NC000009-003,Mine dump,Rock / overburden,0.4594640832581374,Intermediate,2,2,2,1,Unknown,No,feldspar (1); mica (1); quartz (1),3,0.04584407421897169,False
+NC000009-004,Mine dump,Rock / overburden,0.3996939797961564,Lower,2,2,2,1,Unknown,No,feldspar (1); mica (1); quartz (1),3,0.013926029243009341,True
+NC000010-001,Mine dump,Rock / overburden,0.4564935560533972,Intermediate,2,2,2,1,Unknown,No,feldspar; mica; quartz,3,0.04287354701423146,False
+NC000010-002,Mine dump,Rock / overburden,0.3542428832577193,Lower,2,2,2,1,Unknown,No,feldspar; mica; quartz,3,0.05937712578144644,False
+NC000010-003,Ore stockpile/storage,Ore / mineralized stockpile,0.3628656023600767,Lower,2,1,1,0,Unknown,No,feldspar; mica; quartz,3,0.05075440667908904,False
+NC000010-004,Ore stockpile/storage,Ore / mineralized stockpile,0.25398890384420103,Lower,2,1,1,0,Unknown,No,feldspar; mica; quartz,3,0.1596311051949647,False
+NC000011-001,Mine dump,Rock / overburden,0.23577060717779733,Lower,2,2,2,1,Unknown,No,copper; lead; silver,3,0.1778494018613684,False
+NC000012-001,Mine dump,Rock / overburden,0.47144820549866207,Intermediate,2,2,2,1,Unknown,No,feldspar (1); mica (1); quartz (1),3,0.05782819645949633,False
+NC000012-002,Mine dump,Rock / overburden,0.2855520604501272,Lower,2,2,2,1,Unknown,No,feldspar (1); mica (1); quartz (1),3,0.12806794858903853,False
+NC000013-001,Mine dump,Rock / overburden,0.328197907807703,Lower,2,2,2,1,Unknown,No,copper; gold,2,0.08542210123146271,False
+NC000014-001,Mine dump,Rock / overburden,0.3183761078922781,Lower,2,2,2,1,Unknown,No,gold,1,0.09524390114688763,False
+NC000015-001,Mine dump,Rock / overburden,0.09042712274664194,Lower,2,2,2,1,Unknown,No,gold,1,0.3231928862925238,False
+NC000016-001,Mine dump,Rock / overburden,0.3321244642000195,Lower,2,2,2,1,Unknown,No,gold (1); silver (1),2,0.08149554483914623,False
+NC000017-001,Mine dump,Rock / overburden,0.4114967712439879,Lower,2,2,2,1,Unknown,No,talc,1,0.0021232377951778125,True
+NC000017-002,Mine dump,Rock / overburden,0.3359535864005359,Lower,2,2,2,1,Unknown,No,talc,1,0.07766642263862983,False
+NC000017-003,Mine dump,Rock / overburden,0.2829884415708228,Lower,2,2,2,1,Unknown,No,talc,1,0.13063156746834292,False
+NC000018-001,Mine dump,Rock / overburden,0.22356040459175755,Lower,2,2,2,1,Unknown,No,talc,1,0.1900596044474082,False
+NC000018-002,Mine dump,Rock / overburden,0.2015412010243908,Lower,2,2,2,1,Unknown,No,talc,1,0.21207880801477494,False
+NC000019-001,Mine dump,Rock / overburden,0.20752424135317585,Lower,2,2,2,1,Unknown,No,gold,1,0.2060957676859899,False
+NC000019-002,Mine dump,Rock / overburden,0.18750990440161444,Lower,2,2,2,1,Unknown,No,gold,1,0.2261101046375513,False
+NC000020-001,Mine dump,Rock / overburden,0.30836319245645766,Lower,2,2,2,1,Unknown,No,gold,1,0.10525681658270808,False
+NC000021-001,Mine dump,Rock / overburden,0.5173287310195447,Intermediate,2,2,2,1,Unknown,No,talc,1,0.10370872198037895,False
+NC000021-002,Mine dump,Rock / overburden,0.3997381009632388,Lower,2,2,2,1,Unknown,No,talc,1,0.01388190807592693,True
+NC000021-003,Mine dump,Rock / overburden,0.38671708737146687,Lower,2,2,2,1,Unknown,No,talc,1,0.026902921667698865,False
+NC000021-004,Mine dump,Rock / overburden,0.4535262315092633,Intermediate,2,2,2,1,Unknown,No,talc,1,0.03990622247009756,False
+NC000021-005,Mine dump,Rock / overburden,0.44947208019372975,Intermediate,2,2,2,1,Unknown,No,talc,1,0.035852071154564014,False
+NC000021-006,Mine dump,Rock / overburden,0.36535501001304566,Lower,2,2,2,1,Unknown,No,talc,1,0.04826499902612008,False
+NC000022-001,Mine dump,Rock / overburden,0.22059669836052942,Lower,2,2,2,1,Unknown,No,gold; lead; silver; zinc,4,0.19302331067863632,False
+NC000023-001,Tailings - undifferentiated,Tailings,0.5957463209996983,Intermediate,2,2,2,1,Unknown,No,feldspar (1); mica (1); quartz (1),3,0.06446126691887011,False
+NC000024-001,Tailings - pond,Tailings,0.41362000903916574,Lower,2,2,2,1,Unknown,No,lithium (1),1,0.0,True
+NC000025-001,Mine dump,Rock / overburden,0.3594380753216818,Lower,2,2,2,1,Unknown,No,gold (1); lead; silver; zinc,4,0.05418193371748392,False
+NM000001-001,Tailings - pond,Tailings,0.7574732452274404,Higher,2,2,2,1,Yes,No,copper (2); gold (3); silver (3),3,0.09726565730887204,False
+NM000001-002,Tailings - pond,Tailings,0.7999584502022808,Higher,2,2,2,1,Yes,No,copper (2); gold (3); silver (3),3,0.13975086228371247,False
+NM000001-003,Tailings - pond,Tailings,0.743241661384189,Higher,2,2,2,1,Yes,No,copper (2); gold (3); silver (3),3,0.08303407346562064,False
+NM000001-004,Tailings - pond,Tailings,0.7512054967751329,Higher,2,2,2,1,Yes,No,copper (2); gold (3); silver (3),3,0.09099790885656456,False
+NM000001-005,Tailings - pond,Tailings,0.732821485547129,Higher,2,2,2,1,Yes,No,copper (2); gold (3); silver (3),3,0.07261389762856063,False
+NM000001-006,Tailings - pond,Tailings,0.6104268509264812,Intermediate,2,2,2,1,Yes,No,copper (2); gold (3); silver (3),3,0.04978073699208718,False
+NM000001-007,Tailings - pond,Tailings,0.7898087202798351,Higher,2,2,2,1,Yes,No,copper (2); gold (3); silver (3),3,0.1296011323612667,False
+NM000001-008,Leach pile - unknown,Leach-related,0.761494051936773,Higher,2,2,1,2,No,No,copper (2); gold (3); silver (3),3,0.10128646401820462,False
+NM000001-009,Leach pile - unknown,Leach-related,0.7912193452399023,Higher,2,2,1,2,No,No,copper (2); gold (3); silver (3),3,0.13101175732133397,False
+NM000001-010,Leach pile - unknown,Leach-related,0.7382240312478028,Higher,2,2,1,2,Yes,No,copper (2); gold (3); silver (3),3,0.07801644332923441,False
+NM000001-011,Leach pile - unknown,Leach-related,0.7803695701063771,Higher,2,2,1,2,No,No,copper (2); gold (3); silver (3),3,0.12016198218780871,False
+NM000001-012,Waste rock stockpile,Rock / overburden,0.7213433394559936,Higher,2,2,2,1,No,No,copper (2); gold (3); silver (3),3,0.06113575153742523,False
+NM000001-013,Waste rock stockpile,Rock / overburden,0.7052444745378892,Higher,2,2,2,1,No,No,copper (2); gold (3); silver (3),3,0.045036886619320815,False
+NM000002-001,Tailings - pond,Tailings,0.6906778673884618,Higher,2,2,2,1,No,No,copper (2); iron (2),2,0.030470279469893446,False
+NM000002-002,Mine dump,Rock / overburden,0.7756157153349846,Higher,2,2,2,1,No,No,copper (1); iron (1),2,0.11540812741641626,False
+NM000003-001,Tailings - pond,Tailings,0.6149057600334709,Intermediate,2,2,2,1,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.04530182788509751,False
+NM000003-002,Tailings - pond,Tailings,0.6838629169372253,Higher,2,2,2,1,Yes,No,copper (2); gold (2); molybdenum (2); silver (2),4,0.023655329018656968,False
+NM000003-003,Tailings - pond,Tailings,0.7009266868316768,Higher,2,2,2,1,Yes,No,copper (2); gold (2); molybdenum (2); silver (2),4,0.04071909891310843,False
+NM000003-004,Tailings - pond,Tailings,0.6798296010299731,Higher,2,2,2,1,Yes,No,copper (2); gold (2); molybdenum (2); silver (2),4,0.019622013111404768,True
+NM000003-005,Tailings - pond,Tailings,0.7925785045202942,Higher,2,2,2,1,Yes,No,copper (2); gold (2); molybdenum (2); silver (2),4,0.13237091660172584,False
+NM000003-006,Tailings - pond,Tailings,0.8327677527574531,Higher,2,2,2,1,No,No,copper (2); gold (2); molybdenum (2); silver (2),4,0.1725601648388847,False
+NM000003-007,Tailings - pond,Tailings,0.58622867589957,Intermediate,2,2,2,1,Yes,No,copper (2); gold (2); molybdenum (2); silver (2),4,0.07397891201899842,False
+NM000003-008,Tailings - pond,Tailings,0.5974732585812301,Intermediate,2,2,2,1,Yes,No,copper (2); gold (2); molybdenum (2); silver (2),4,0.06273432933733825,False
+NM000003-009,Tailings - pond,Tailings,0.6536979774755174,Intermediate,2,2,2,1,Yes,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.006509610443050984,True
+NM000003-010,Leach pile - heap,Leach-related,0.6780445452960201,Higher,2,2,1,2,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.017836957377451723,True
+NM000003-011,Leach pile - heap,Leach-related,0.8188466952379447,Higher,2,2,1,2,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.15863910731937636,False
+NM000003-012,Leach pile - heap,Leach-related,0.8324026544418899,Higher,2,2,1,2,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.1721950665233215,False
+NM000003-013,Leach pile - heap,Leach-related,0.8399594160277155,Higher,2,2,1,2,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.17975182810914714,False
+NM000003-014,Leach pile - heap,Leach-related,0.8832047798162952,Higher,2,2,1,2,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.22299719189772682,False
+NM000003-015,Mine dump,Rock / overburden,0.6575638682923866,Intermediate,2,2,2,1,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.0026437196261818174,True
+NM000003-016,Mine dump,Rock / overburden,0.765841340734558,Higher,2,2,2,1,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.10563375281598963,False
+NM000003-017,Tailings - undifferentiated,Tailings,0.6431468468838,Intermediate,2,2,2,1,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.0170607410347684,True
+NM000003-018,Mine dump,Rock / overburden,0.7283242473873389,Higher,2,2,2,1,No,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.06811665946877055,False
+NM000003-019,Slag pile,Process / metallurgical residue,0.5746530016808951,Intermediate,2,2,1,0,Yes,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.08555458623767331,False
+NM000003-020,Mine dump,Rock / overburden,0.6691043392264565,Higher,2,2,2,1,Yes,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.00889675130788814,True
+NM000003-021,Mine dump,Rock / overburden,0.688596082603904,Higher,2,2,2,1,Yes,No,copper (1); gold (1); molybdenum (1); silver (1),4,0.028388494685335663,False
+NM000004-001,Tailings - pond,Tailings,0.7685609976835771,Higher,2,2,2,1,Yes,Yes,molybdenum (1),1,0.10835340976500873,False
+NM000004-002,Tailings - pond,Tailings,0.7616631425772175,Higher,2,2,2,1,Yes,Yes,molybdenum (1),1,0.10145555465864908,False
+NM000004-003,Mine dump,Rock / overburden,0.7214908665104255,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.061283278591857115,False
+NM000004-004,Mine dump,Rock / overburden,0.7544848153669811,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.09427722744841271,False
+NM000004-005,Mine dump,Rock / overburden,0.7367356407619865,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.07652805284341813,False
+NM000004-006,Mine dump,Rock / overburden,0.7091130534029366,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.04890546548436825,False
+NM000004-007,Mine dump,Rock / overburden,0.7218056130197237,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.06159802510115531,False
+NM000004-008,Mine dump,Rock / overburden,0.8020901877605656,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.14188259984199725,False
+NM000004-009,Mine dump,Rock / overburden,0.7839261629645515,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.12371857504598316,False
+NM000004-010,Mine dump,Rock / overburden,0.7966529144634644,Higher,2,2,2,1,No,Yes,molybdenum (1),1,0.13644532654489605,False
+NM000005-001,Tailings - pond,Tailings,0.6771165643589485,Higher,2,2,2,1,Yes,Yes,uranium (1); vanadium (1),2,0.01690897644038014,True
+NM000005-002,Tailings - pond,Tailings,0.4820253968768079,Intermediate,2,2,2,1,Yes,Yes,uranium (1); vanadium (1),2,0.06840538783764216,False
+NM000006-001,Mine dump,Rock / overburden,0.6595079746575598,Intermediate,2,2,2,1,Yes,No,gold,1,0.0006996132610085359,True
+NM000007-001,Tailings - undifferentiated,Tailings,0.6847955165014575,Higher,2,2,2,1,No,No,potash,1,0.024587928582889162,False
+NM000008-001,Tailings - pond,Tailings,0.7462969548459844,Higher,2,2,2,1,No,No,magnesium; magnesium chloride; potash; potassium; salt; sulfur,6,0.08608936692741598,False
+NM000008-002,Tailings - pond,Tailings,0.6998266335117346,Higher,2,2,2,1,No,No,magnesium; magnesium chloride; potash; potassium; salt; sulfur,6,0.0396190455931662,False
+NM000008-003,Tailings - pond,Tailings,0.7211387498194294,Higher,2,2,2,1,No,No,magnesium; magnesium chloride; potash; potassium; salt; sulfur,6,0.06093116190086101,False
+NM000009-001,Tailings - pond,Tailings,0.7013242972850973,Higher,2,2,2,1,No,No,potash; salt,2,0.04111670936652889,False
+NM000009-002,Evaporation pond,Water / process pond,0.6798467607205908,Higher,1,2,1,2,No,No,potash; salt,2,0.01963917280202243,True
+NM000010-001,Tailings - undifferentiated,Tailings,0.7516668722045606,Higher,2,2,2,1,No,No,potash,1,0.09145928428599226,False
+NM000011-001,Tailings - pond,Tailings,0.8135236880927502,Higher,2,2,2,1,No,No,potash,1,0.15331610017418185,False
+NV000001-001,Tailings - undifferentiated,Tailings,0.3634949807177769,Lower,2,2,2,1,No,No,gold (1); silver (1),2,0.05012502832138882,False
+NV000001-002,Mine dump,Rock / overburden,0.505205266600827,Intermediate,2,2,2,1,No,No,gold (1); silver (1),2,0.09158525756166125,False
+NV000001-003,Tailings - undifferentiated,Tailings,0.29894966885111957,Lower,2,2,2,1,No,No,gold (1); silver (1),2,0.11467034018804617,False
+NV000001-004,Tailings - undifferentiated,Tailings,0.5500562140485714,Intermediate,2,2,2,1,No,No,gold (1); silver (1),2,0.11015137386999696,False
+NV000001-005,Mine dump,Rock / overburden,0.43448065008513725,Intermediate,2,2,2,1,No,No,gold (1); silver (1),2,0.020860641045971517,False
+NV000001-006,Mine dump,Rock / overburden,0.33963738541952193,Lower,2,2,2,1,No,No,gold (1); silver (1),2,0.0739826236196438,False
+NV000001-007,Mine dump,Rock / overburden,0.241553546368694,Lower,2,2,2,1,No,No,gold (1); silver (1),2,0.17206646267047174,False
+NV000001-008,Mine dump,Rock / overburden,0.23033516475419613,Lower,2,2,2,1,No,No,gold (1); silver (1),2,0.1832848442849696,False
+NV000002-001,Leach pile - heap,Leach-related,0.5338354140173771,Intermediate,2,2,1,2,Yes,No,antimony; gold; mercury; tungsten,4,0.12021540497821137,False
+NV000003-001,Mine dump,Rock / overburden,0.22032436376499467,Lower,2,2,2,1,No,No,iron,1,0.19329564527417106,False
+NV000003-002,Mine dump,Rock / overburden,0.3610417516367951,Lower,2,2,2,1,No,No,iron,1,0.052578257402370654,False
+NV000003-003,Mine dump,Rock / overburden,0.3095689505543516,Lower,2,2,2,1,No,No,iron,1,0.10405105848481416,False
+NV000003-004,Mine dump,Rock / overburden,0.3517780672955041,Lower,2,2,2,1,No,No,iron,1,0.061841941743661644,False
+NV000003-005,Mine dump,Rock / overburden,0.27111700988547144,Lower,2,2,2,1,No,No,iron,1,0.1425029991536943,False
+NV000003-006,Mine dump,Rock / overburden,0.2219259110037097,Lower,2,2,2,1,No,No,iron,1,0.19169409803545603,False
+NV000003-007,Mine dump,Rock / overburden,0.1599774966832184,Lower,2,2,2,1,No,No,iron,1,0.25364251235594737,False
+NV000003-008,Mine dump,Rock / overburden,0.1411266383043036,Lower,2,2,2,1,No,No,iron,1,0.27249337073486213,False
+NV000003-009,Mine dump,Rock / overburden,0.27231440407727114,Lower,2,2,2,1,No,No,iron,1,0.1413056049618946,False
+NV000003-010,Mine dump,Rock / overburden,0.3230576029309568,Lower,2,2,2,1,No,No,iron,1,0.09056240610820893,False
+NV000003-011,Mine dump,Rock / overburden,0.2718254476940972,Lower,2,2,2,1,No,No,iron,1,0.14179456134506851,False
+NV000004-001,Leach pile - heap,Leach-related,0.24274447659479972,Lower,2,2,1,2,No,No,gold,1,0.170875532444366,False
+NV000005-001,Mine dump,Rock / overburden,0.3326821600611104,Lower,2,2,2,1,No,No,gold,1,0.08093784897805534,False
+NV000005-002,Mine dump,Rock / overburden,0.3029145474466341,Lower,2,2,2,1,No,No,gold,1,0.11070546159253164,False
+NV000005-003,Mine dump,Rock / overburden,0.29977324084643,Lower,2,2,2,1,No,No,gold,1,0.11384676819273576,False
+NV000005-004,Tailings - undifferentiated,Tailings,0.30668635345044404,Lower,2,2,2,1,No,No,gold,1,0.1069336555887217,False
+NV000005-005,Tailings - undifferentiated,Tailings,0.24831320560285536,Lower,2,2,2,1,No,No,gold,1,0.16530680343631038,False
+NV000005-006,Tailings - undifferentiated,Tailings,0.4176375454287846,Intermediate,2,2,2,1,No,No,gold,1,0.004017536389618881,True
+NV000006-001,Tailings - undifferentiated,Tailings,0.4617309083742542,Intermediate,2,2,2,1,No,No,mercury,1,0.04811089933508844,False
+NV000006-002,Tailings - undifferentiated,Tailings,0.4522471474437068,Intermediate,2,2,2,1,No,No,mercury,1,0.03862713840454107,False
+NV000006-003,Mine dump,Rock / overburden,0.4813749000571422,Intermediate,2,2,2,1,No,No,mercury,1,0.06775489101797644,False
+NV000006-004,Mine dump,Rock / overburden,0.33527923796514725,Lower,2,2,2,1,No,No,mercury,1,0.07834077107401849,False
+NV000007-001,Leach pile - heap,Leach-related,0.5401981534392406,Intermediate,2,2,1,2,No,No,gold; mercury (1); silver,3,0.12000943447932777,False
+NV000007-002,Leach pile - heap,Leach-related,0.4602063818569691,Intermediate,2,2,1,2,No,No,gold; mercury (1); silver,3,0.04658637281780337,False
+NV000007-003,Mine dump,Rock / overburden,0.6334988983483594,Intermediate,2,2,2,1,No,No,gold; mercury (1); silver,3,0.026708689570209,False
+NV000007-004,Tailings - mill,Tailings,0.6044922211089426,Intermediate,2,2,2,1,No,No,gold; mercury (1); silver,3,0.055715366809625744,False
+NV000008-001,Mine dump,Rock / overburden,0.6138778953086992,Intermediate,2,2,2,1,No,No,gold; silver,2,0.04632969260986919,False
+NV000008-002,Leach pile - heap,Leach-related,0.5897557412679065,Intermediate,2,2,1,2,No,No,gold; silver,2,0.07045184665066184,False
+NV000008-003,Mine dump,Rock / overburden,0.5434824452230286,Intermediate,2,2,2,1,No,No,gold; silver,2,0.1167251426955398,False
+NV000009-001,Mine dump,Rock / overburden,0.4263420633198209,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.012722054280655148,True
+NV000009-002,Mine dump,Rock / overburden,0.4367523499608118,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.023132340921646066,False
+NV000009-003,Mine dump,Rock / overburden,0.5012849434952029,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.08766493445603718,False
+NV000009-004,Mine dump,Rock / overburden,0.46168925846138215,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.04806924942221641,False
+NV000009-005,Mine dump,Rock / overburden,0.570413432926674,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.08979415499189436,False
+NV000009-006,Mine dump,Rock / overburden,0.5097290191894692,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.09610901015030349,False
+NV000009-007,Mine dump,Rock / overburden,0.5844969353143051,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.07571065260426324,False
+NV000009-008,Tailings - undifferentiated,Tailings,0.4691742556264124,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.05555424658724667,False
+NV000009-009,Tailings - pond,Tailings,0.5237883269036208,Intermediate,2,2,2,1,No,No,copper (1); iron,2,0.11016831786445502,False
+NV000010-001,Tailings - pond,Tailings,0.4237415749901252,Intermediate,2,2,2,1,No,No,borates; gold; silver,3,0.010121565950959477,True
+NV000010-002,Settling pond,Water / process pond,0.208416656833835,Lower,1,2,1,2,No,No,borates; gold; silver,3,0.20520335220533073,False
+NV000011-001,Leach pile - heap,Leach-related,0.3494644713432872,Lower,2,2,1,2,No,No,copper,1,0.06415553769587856,False
+NV000011-002,Mine dump,Rock / overburden,0.22335640323463118,Lower,2,2,2,1,No,No,copper,1,0.19026360580453455,False
+NV000011-003,Mine dump,Rock / overburden,0.46133701547455463,Intermediate,2,2,2,1,No,No,copper,1,0.0477170064353889,False
+NV000011-004,Mine dump,Rock / overburden,0.48972111421484515,Intermediate,2,2,2,1,No,No,copper,1,0.07610110517567942,False
+NV000011-005,Mine dump,Rock / overburden,0.42885049993649127,Intermediate,2,2,2,1,No,No,copper,1,0.015230490897325533,True
+NV000011-006,Mine dump,Rock / overburden,0.36578567142994567,Lower,2,2,2,1,No,No,copper,1,0.04783433760922007,False
+NV000012-001,Leach pile - heap,Leach-related,0.6430687210196043,Intermediate,2,2,1,2,No,No,gold; silver,2,0.017138866898964045,True
+NV000012-002,Leach pile - heap,Leach-related,0.6249877711711045,Intermediate,2,2,1,2,No,No,gold; silver,2,0.03521981674746388,False
+NV000013-001,Mine dump,Rock / overburden,0.2351298293939462,Lower,2,2,2,1,No,No,gold; silver,2,0.17849017964521954,False
+NV000013-002,Tailings - mill,Tailings,0.41770740989456223,Intermediate,2,2,2,1,No,No,gold; silver,2,0.004087400855396495,True
+NV000013-003,Tailings - mill,Tailings,0.5142139994106174,Intermediate,2,2,2,1,No,No,gold; silver,2,0.10059399037145167,False
+NV000014-001,Leach pile - heap,Leach-related,0.6822927236183066,Higher,2,2,1,2,No,No,gold; silver,2,0.022085135699738245,False
+NV000014-002,Leach pile - heap,Leach-related,0.6277016598340814,Intermediate,2,2,1,2,No,No,gold; silver,2,0.032505928084486935,False
+NV000014-003,Other,Other / unclassified,0.35051637402533375,Lower,0,0,0,0,Yes,No,gold; silver,2,0.06310363501383198,False
+NV000014-004,Tailings - pond,Tailings,0.45186247775051447,Intermediate,2,2,2,1,Yes,No,gold; silver,2,0.03824246871134873,False
+NV000014-005,Mine dump,Rock / overburden,0.7172165164773466,Higher,2,2,2,1,No,No,gold; silver,2,0.05700892855877826,False
+NV000014-006,Mine dump,Rock / overburden,0.7269052384954684,Higher,2,2,2,1,Yes,No,gold; silver,2,0.06669765057690002,False
+NV000014-007,Mine dump,Rock / overburden,0.6707759607539368,Higher,2,2,2,1,Yes,No,gold; silver,2,0.010568372835368378,True
+NV000014-008,Ore stockpile/storage,Ore / mineralized stockpile,0.5435280637254372,Intermediate,2,1,1,0,No,No,gold; silver,2,0.11667952419313121,False
+NV000014-009,Mine dump,Rock / overburden,0.7166190259677687,Higher,2,2,2,1,Yes,No,gold; silver,2,0.056411438049200346,False
+NV000014-010,Mine dump,Rock / overburden,0.5343204572442694,Intermediate,2,2,2,1,Yes,No,gold; silver,2,0.12070044820510362,False
+NV000014-011,Ore stockpile/storage,Ore / mineralized stockpile,0.48140619122935513,Intermediate,2,1,1,0,No,No,gold; silver,2,0.06778618219018939,False
+NV000015-001,Mine dump,Rock / overburden,0.47313427668131036,Intermediate,2,2,2,1,No,No,gold; silver,2,0.059514267642144625,False
+NV000015-002,Leach pile - heap,Leach-related,0.37494789656725275,Lower,2,2,1,2,No,No,gold; silver,2,0.03867211247191299,False
+NV000015-003,Tailings - pond,Tailings,0.21858914907180002,Lower,2,2,2,1,No,No,gold; silver,2,0.19503085996736572,False
+OK000001-001,Tailings - undifferentiated,Tailings,0.6016680752818984,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.05853951263667001,False
+OK000001-002,Tailings - pond,Tailings,0.6406060275182683,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.019601560400300033,True
+OK000001-003,Tailings - undifferentiated,Tailings,0.5298863720144132,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1162663629752475,False
+OK000001-004,Tailings - pond,Tailings,0.5419589294849596,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11824865843360877,False
+OK000001-005,Tailings - undifferentiated,Tailings,0.6122360987424219,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.047971489176146465,False
+OK000001-006,Tailings - pond,Tailings,0.4772343169098316,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.06361430787066585,False
+OK000001-007,Tailings - undifferentiated,Tailings,0.4619209700378583,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.04830096099869258,False
+OK000001-008,Tailings - undifferentiated,Tailings,0.5485064288011106,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11170115911745782,False
+OK000001-009,Tailings - undifferentiated,Tailings,0.5487560355101669,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11145155240840143,False
+OK000001-010,Tailings - undifferentiated,Tailings,0.5604871188420979,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.09972046907647047,False
+OK000001-011,Tailings - undifferentiated,Tailings,0.5451014408450403,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11510614707352806,False
+OK000001-012,Tailings - undifferentiated,Tailings,0.42519760453166017,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.01157759549249443,True
+OK000001-013,Tailings - undifferentiated,Tailings,0.4599236582759737,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.046303649236807964,False
+OK000001-014,Tailings - undifferentiated,Tailings,0.2934988881935,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.12012112084566573,False
+OK000001-015,Tailings - undifferentiated,Tailings,0.542769321001281,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11743826691728743,False
+OK000001-016,Tailings - undifferentiated,Tailings,0.37293364881869423,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.04068636022047151,False
+OK000001-017,Tailings - undifferentiated,Tailings,0.30042845394696804,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1131915550921977,False
+OK000001-018,Tailings - undifferentiated,Tailings,0.35165170422718484,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.0619683048119809,False
+OK000001-019,Tailings - undifferentiated,Tailings,0.495465345684311,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08184533664514526,False
+OK000001-020,Tailings - undifferentiated,Tailings,0.487828014723761,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.07420800568459529,False
+OK000001-021,Tailings - undifferentiated,Tailings,0.4743540050791249,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.06073399603995916,False
+OK000001-022,Tailings - undifferentiated,Tailings,0.5285639029594771,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11494389392031135,False
+OK000001-023,Tailings - undifferentiated,Tailings,0.3745693065021554,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.03905070253701032,False
+OK000001-024,Tailings - undifferentiated,Tailings,0.27783739465481516,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.13578261438435058,False
+OK000001-025,Tailings - undifferentiated,Tailings,0.4758000442816939,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.06218003524252819,False
+OK000001-026,Tailings - undifferentiated,Tailings,0.325589993437449,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08803001560171675,False
+OK000001-027,Tailings - undifferentiated,Tailings,0.5855060011006931,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.07470158681787531,False
+OK000001-028,Tailings - undifferentiated,Tailings,0.33480634212631,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.07881366691285574,False
+OK000001-029,Tailings - undifferentiated,Tailings,0.32957263771405537,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08404737132511036,False
+OK000001-030,Tailings - undifferentiated,Tailings,0.41350106310173684,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.0001189459374288937,True
+OK000001-031,Tailings - undifferentiated,Tailings,0.4008671712311122,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.01275283780805353,True
+OK000001-032,Tailings - undifferentiated,Tailings,0.19843532320403617,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.21518468583512956,False
+OK000001-033,Tailings - undifferentiated,Tailings,0.4582986871173761,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.044678678078210354,False
+OK000001-034,Tailings - undifferentiated,Tailings,0.5659261507724723,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.09428143714609605,False
+OK000001-035,Tailings - undifferentiated,Tailings,0.44347512519630333,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.029855116157137596,False
+OK000001-036,Tailings - undifferentiated,Tailings,0.5018754820454778,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08825547300631209,False
+OK000001-037,Tailings - undifferentiated,Tailings,0.4862102096461192,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.07259020060695348,False
+OK000001-038,Tailings - undifferentiated,Tailings,0.23749582359746005,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1761241854417057,False
+OK000001-039,Tailings - undifferentiated,Tailings,0.4328722644878768,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.019252255448711064,True
+OK000001-040,Tailings - undifferentiated,Tailings,0.4527678610069889,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.039147851967823166,False
+OK000001-041,Tailings - undifferentiated,Tailings,0.44167975090211514,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.028059741862949406,False
+OK000001-042,Tailings - undifferentiated,Tailings,0.38197750595207774,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.03164250308708799,False
+OK000001-043,Tailings - undifferentiated,Tailings,0.2939660237254791,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11965398531368665,False
+OK000001-044,Tailings - undifferentiated,Tailings,0.15947619873590532,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.2541438103032604,False
+OK000001-045,Tailings - undifferentiated,Tailings,0.21063295797425946,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.20298705106490628,False
+OK000001-046,Tailings - undifferentiated,Tailings,0.30475442098414063,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.10886558805502511,False
+OK000001-047,Tailings - undifferentiated,Tailings,0.2989192031917191,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11470080584744663,False
+OK000001-048,Tailings - undifferentiated,Tailings,0.15764173855303928,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.2559782704861264,False
+OK000001-049,Tailings - undifferentiated,Tailings,0.28429990408803274,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.129320104951133,False
+OK000001-050,Tailings - undifferentiated,Tailings,0.25192866958690147,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.16169133945226427,False
+OK000001-051,Mine dump,Rock / overburden,0.2954729300570958,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11814707898206994,False
+OK000001-052,Tailings - undifferentiated,Tailings,0.22171672496449552,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.19190328407467022,False
+OK000001-053,Tailings - undifferentiated,Tailings,0.2721671348388829,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.14145287420028285,False
+OK000001-054,Tailings - undifferentiated,Tailings,0.30695205973092343,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1066679493082423,False
+OK000001-055,Tailings - undifferentiated,Tailings,0.30540090469650316,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.10821910434266258,False
+OK000001-056,Tailings - undifferentiated,Tailings,0.3422246348463331,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.07139537419283265,False
+OK000001-057,Tailings - undifferentiated,Tailings,0.4872377873466742,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.07361777830750849,False
+OK000001-058,Tailings - undifferentiated,Tailings,0.436189892477641,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.02256988343847527,False
+OK000001-059,Tailings - undifferentiated,Tailings,0.3012212941014535,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11239871493771225,False
+OK000001-060,Tailings - undifferentiated,Tailings,0.3162211785520674,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.09739883048709835,False
+OK000001-061,Tailings - undifferentiated,Tailings,0.32597777460284716,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08764223443631858,False
+OK000001-062,Tailings - undifferentiated,Tailings,0.30468692308106426,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.10893308595810147,False
+OK000001-063,Tailings - undifferentiated,Tailings,0.2213226837712116,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.19229732526795415,False
+OK000001-064,Tailings - undifferentiated,Tailings,0.33008687474011045,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08353313429905529,False
+OK000001-065,Tailings - undifferentiated,Tailings,0.3026621330899916,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11095787594917411,False
+OK000001-066,Tailings - undifferentiated,Tailings,0.23367663418650345,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1799433748526623,False
+OK000001-067,Tailings - undifferentiated,Tailings,0.2502931768014458,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.16332683223771993,False
+OK000001-068,Tailings - undifferentiated,Tailings,0.28469404051843833,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1289259685207274,False
+OK000001-069,Tailings - undifferentiated,Tailings,0.11472343274369437,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.2988965762954714,False
+OK000001-070,Tailings - undifferentiated,Tailings,0.34014913197933094,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.0734708770598348,False
+OK000001-071,Tailings - undifferentiated,Tailings,0.163228781375701,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.2503912276634648,False
+OK000001-072,Tailings - undifferentiated,Tailings,0.3114712314262678,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.10214877761289792,False
+OK000001-073,Tailings - undifferentiated,Tailings,0.3488325520179257,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.06478745702124006,False
+OK000001-074,Tailings - undifferentiated,Tailings,0.2976609694582337,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11595903958093201,False
+OK000001-075,Tailings - undifferentiated,Tailings,0.17358407609780754,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.2400359329413582,False
+OK000001-076,Tailings - undifferentiated,Tailings,0.3353664362835488,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.07825357275561695,False
+OK000001-077,Tailings - undifferentiated,Tailings,0.16035431280470425,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.2532656962344615,False
+OK000001-078,Tailings - undifferentiated,Tailings,0.2107570036154731,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.20286300542369265,False
+OK000001-079,Tailings - undifferentiated,Tailings,0.22656084326128054,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1870591657778852,False
+OK000001-080,Tailings - undifferentiated,Tailings,0.28779086099205575,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.12582914804710998,False
+OK000001-081,Tailings - undifferentiated,Tailings,0.2976397101173984,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11598029892176731,False
+OK000001-082,Tailings - undifferentiated,Tailings,0.29459970818234305,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11902030085682269,False
+OK000001-083,Tailings - pond,Tailings,0.3685094509662114,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.04511055807295433,False
+OK000001-084,Tailings - undifferentiated,Tailings,0.24914751607538901,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.16447249296377672,False
+OK000001-085,Tailings - undifferentiated,Tailings,0.10003272659284164,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.3135872824463241,False
+OK000001-086,Tailings - undifferentiated,Tailings,0.21563261180935772,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.19798739722980802,False
+OK000001-087,Tailings - undifferentiated,Tailings,0.41508043951024604,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.0014604304710802984,True
+OK000001-088,Tailings - undifferentiated,Tailings,0.4570829989290669,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.04346298988990116,False
+OK000001-089,Tailings - undifferentiated,Tailings,0.23838220034278013,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.1752378086963856,False
+OK000001-090,Tailings - undifferentiated,Tailings,0.38594399994074585,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.027676009098419885,False
+OK000001-091,Tailings - undifferentiated,Tailings,0.25033034550345473,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.163289663535711,False
+OK000001-092,Tailings - undifferentiated,Tailings,0.16733417713658483,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.2462858319025809,False
+OK000001-093,Tailings - undifferentiated,Tailings,0.47715088896553653,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.0635308799263708,False
+OK000001-094,Tailings - undifferentiated,Tailings,0.29478964447336087,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.11883036456580487,False
+OK000001-095,Tailings - undifferentiated,Tailings,0.46451146803272736,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.05089145899356162,False
+OK000001-096,Tailings - undifferentiated,Tailings,0.02990895421630682,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.38371105482285894,False
+OK000001-097,Tailings - undifferentiated,Tailings,0.579781577467308,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08042601045126041,False
+OK000001-098,Tailings - undifferentiated,Tailings,0.5205502401389831,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.10693023109981736,False
+OK000001-099,Tailings - pond,Tailings,0.3248861244516115,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08873388458755421,False
+OK000001-100,Tailings - pond,Tailings,0.4078651969242356,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.005754812114930119,True
+OK000001-101,Tailings - undifferentiated,Tailings,0.43002519116073395,Intermediate,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.016405182121568218,True
+OK000001-102,Tailings - undifferentiated,Tailings,0.30841035558683666,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.10520965345232908,False
+OK000001-103,Tailings - undifferentiated,Tailings,0.3265178747672025,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.08710213427196323,False
+OK000001-104,Tailings - pond,Tailings,0.27592856644063274,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.137691442598533,False
+OK000001-105,Tailings - undifferentiated,Tailings,0.37211950011022743,Lower,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.04150050892893831,False
+OK000001-106,Tailings - pond,Tailings,0.6769298574187074,Higher,2,2,2,1,No,Yes,lead (1); zinc (1),2,0.016722269500138998,True
+OK000002-001,Tailings - pond,Tailings,0.4299055906282463,Intermediate,2,2,2,1,No,No,copper (1); silver (1),2,0.016285581589080556,True
+OK000002-002,Tailings - pond,Tailings,0.41238745019433865,Lower,2,2,2,1,No,No,copper (1); silver (1),2,0.0012325588448270919,True
+OK000002-003,Tailings - pond,Tailings,0.43430618989310144,Intermediate,2,2,2,1,No,No,copper (1); silver (1),2,0.0206861808539357,False
+OK000002-004,Tailings - pond,Tailings,0.24460733796454548,Lower,2,2,2,1,No,No,copper (1); silver (1),2,0.16901267107462026,False
+UT000001-001,Tailings - pond,Tailings,0.7121830686535152,Higher,2,2,2,1,Yes,No,gold (2); mercury (2); silver (2),3,0.051975480734946844,False
+UT000001-002,Mine dump,Rock / overburden,0.65945465184108,Intermediate,2,2,2,1,Yes,No,gold (1); mercury (1); silver (1),3,0.0007529360774883864,True
+UT000001-003,Tailings - pond,Tailings,0.7227232467982432,Higher,2,2,2,1,No,No,gold; mercury (1); silver,3,0.06251565887967481,False
+UT000002-001,Tailings - pond,Tailings,0.8879837634193889,Higher,2,2,2,1,No,Yes,copper (2); gold (2); lead (2); molybdenum (2); palladium (3); platinum (3); rhenium (4); selenium (3); silver (2); tellurium (3); uranium (4); zinc (2),12,0.22777617550082052,False
+UT000002-002,Tailings - pond,Tailings,0.9258966125843273,Higher,2,2,2,1,No,Yes,copper (2); gold (2); lead (2); molybdenum (2); palladium (3); platinum (3); rhenium (4); selenium (3); silver (2); tellurium (3); uranium (4); zinc (2),12,0.26568902466575894,False
+UT000002-003,Tailings - pond,Tailings,0.5026138789294563,Intermediate,2,2,2,1,Yes,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.08899386989029057,False
+UT000002-004,Mine dump,Rock / overburden,0.7242227150143473,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.06401512709577895,False
+UT000002-005,Mine dump,Rock / overburden,1.0,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.3397924120814316,False
+UT000002-006,Mine dump,Rock / overburden,0.8886174525939654,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.22840986467539703,False
+UT000002-007,Mine dump,Rock / overburden,0.7724395889153598,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.11223200099679143,False
+UT000002-008,Mine dump,Rock / overburden,0.8202123627324456,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.1600047748138772,False
+UT000002-009,Mine dump,Rock / overburden,0.8855237573472342,Higher,2,2,2,1,No,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.22531616942866584,False
+UT000003-001,Leach pile - heap,Leach-related,0.6664460153901206,Higher,2,2,1,2,No,No,copper,1,0.0062384274715522325,True
+UT000003-002,Mine dump,Rock / overburden,0.6244205335732211,Intermediate,2,2,2,1,No,No,copper,1,0.035787054345347236,False
+UT000003-003,Mine dump,Rock / overburden,0.6837334927403073,Higher,2,2,2,1,No,No,copper,1,0.023525904821738886,False
+UT000003-004,Mine dump,Rock / overburden,0.7115881892656126,Higher,2,2,2,1,Yes,No,copper,1,0.05138060134704425,False
+UT000004-001,Mine dump,Rock / overburden,0.6597503897214768,Intermediate,2,2,2,1,No,No,iron,1,0.0004571981970915573,True
+UT000004-002,Ore stockpile/storage,Ore / mineralized stockpile,0.6388864863910787,Intermediate,2,1,1,0,No,No,iron,1,0.021321101527489672,False
+UT000004-003,Mine dump,Rock / overburden,0.6581619624019709,Intermediate,2,2,2,1,No,No,iron (1),1,0.0020456255165974824,True
+UT000004-004,Mine dump,Rock / overburden,0.6384500465459667,Intermediate,2,2,2,1,No,No,iron (1),1,0.021757541372601663,False
+UT000005-001,Mine dump,Rock / overburden,0.6199194634331912,Intermediate,2,2,2,1,No,No,iron (1),1,0.04028812448537722,False
+UT000006-001,Tailings - pond,Tailings,0.5935673353896146,Intermediate,2,2,2,1,Yes,Yes,copper (1); gold (1); lead (1); silver (1); zinc (1),5,0.06664025252895378,False
+UT000007-001,Tailings - pond,Tailings,0.5939816762598817,Intermediate,2,2,2,1,No,No,beryllium (1),1,0.06622591165868663,False
+UT000008-001,Leach pile - heap,Leach-related,0.6617839465067031,Higher,2,2,1,2,Yes,No,gold; silver,2,0.001576358588134763,True
+UT000009-001,Tailings - pond,Tailings,0.7493865237355396,Higher,2,2,2,1,Yes,Yes,antimony (1); arsenic (1); bismuth (1); cadmium (1); copper (2); gold (2); lead (2); manganese (1); molybdenum (2); palladium (3); platinum (3); rhenium (4); selenium (3); silver (2); tellurium (3); uranium (4); zinc (1),17,0.08917893581697123,False
+UT000010-001,Tailings - pond,Tailings,0.6558703257299401,Intermediate,2,2,2,1,No,Yes,antimony (1); arsenic (1); bismuth (1); cadmium (1); copper (1); gold (1); lead; manganese (1); silver; zinc (1),10,0.004337262188628288,True
+UT000011-001,Tailings - pond,Tailings,0.6145107000717996,Intermediate,2,2,2,1,Yes,Yes,antimony (1); arsenic (1); bismuth (1); cadmium (1); copper; gold (2); lead; manganese (1); molybdenum (2); palladium (3); platinum (3); rhenium (4); selenium (3); silver (2); tellurium (3); uranium (4); zinc,17,0.04569688784676873,False
+UT000012-001,Mine dump,Rock / overburden,0.6647536793067131,Higher,2,2,2,1,No,No,iron (1),1,0.004546091388144768,True
+UT000012-002,Mine dump,Rock / overburden,0.6061515883520971,Intermediate,2,2,2,1,No,No,iron (1),1,0.054055999566471225,False
+UT000012-003,Mine dump,Rock / overburden,0.6937571388640027,Higher,2,2,2,1,No,No,iron (1),1,0.033549550945434325,False
+UT000013-001,Mine dump,Rock / overburden,0.7064306642118919,Higher,2,2,2,1,No,No,phosphate rock,1,0.04622307629332356,False
+UT000014-001,Tailings - pond,Tailings,0.6102490459583779,Intermediate,2,2,2,1,Yes,No,copper; uranium; vanadium (1),3,0.04995854196019045,False
+VA000001-001,Tailings - undifferentiated,Tailings,0.566173424513559,Intermediate,2,2,2,1,No,No,clay,1,0.09403416340500936,False
+VA000002-001,Mine dump,Rock / overburden,0.41073690238006927,Lower,2,2,2,1,No,No,talc,1,0.0028831066590964682,True
+VA000002-002,Mine dump,Rock / overburden,0.2676387986773859,Lower,2,2,2,1,No,No,talc,1,0.14598121036177986,False
+VA000003-001,Mine dump,Rock / overburden,0.39355966705110607,Lower,2,2,2,1,No,No,iron; lead; zinc,3,0.02006034198805967,False
+VA000003-002,Mine dump,Rock / overburden,0.544312005471953,Intermediate,2,2,2,1,No,No,iron; lead; zinc,3,0.11589558244661535,False
+VA000003-003,Mine dump,Rock / overburden,0.32017445491845675,Lower,2,2,2,1,No,No,iron; lead; zinc,3,0.09344555412070898,False
+VA000003-004,Mine dump,Rock / overburden,0.3646298854298881,Lower,2,2,2,1,No,No,iron; lead; zinc,3,0.048990123609277625,False
+VA000003-005,Mine dump,Rock / overburden,0.3748162661001272,Lower,2,2,2,1,No,No,iron; lead; zinc,3,0.038803742939038544,False
+VA000004-001,Mine dump,Rock / overburden,0.42396128387749077,Intermediate,2,2,2,1,Yes,No,manganese,1,0.010341274838325032,True
+VA000004-002,Mine dump,Rock / overburden,0.37840460520297914,Lower,2,2,2,1,Yes,No,manganese,1,0.0352154038361866,False
+VA000004-003,Mine dump,Rock / overburden,0.48678267332601943,Intermediate,2,2,2,1,Yes,No,manganese,1,0.0731626642868537,False
+VA000004-004,Mine dump,Rock / overburden,0.5192037848370348,Intermediate,2,2,2,1,Yes,No,manganese,1,0.10558377579786904,False
+VA000005-001,Tailings - pond,Tailings,0.43835428620650574,Intermediate,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.024734277167340002,False
+VA000005-002,Mine dump,Rock / overburden,0.38822896454554773,Lower,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.02539104449361801,False
+VA000005-003,Tailings - pond,Tailings,0.4404297440182575,Intermediate,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.02680973497909178,False
+VA000005-004,Tailings - pond,Tailings,0.4526547843029959,Intermediate,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.039034775263830146,False
+VA000005-005,Mine dump,Rock / overburden,0.37613795382401977,Lower,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.03748205521514597,False
+VA000005-006,Mine dump,Rock / overburden,0.308428379540404,Lower,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.10519162949876176,False
+VA000005-007,Mine dump,Rock / overburden,0.41526826113795967,Intermediate,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.0016482520987939342,True
+VA000005-008,Mine dump,Rock / overburden,0.4827250610432873,Intermediate,2,2,2,1,Unknown,No,feldspar; kaolin; titanium; zirconium,4,0.06910505200412154,False
+VA000006-001,Mine dump,Rock / overburden,0.1821544130388404,Lower,2,2,2,1,Unknown,No,copper (1); iron,2,0.23146559600032535,False
+VA000006-002,Mine dump,Rock / overburden,0.11571522792966885,Lower,2,2,2,1,Unknown,No,copper (1); iron,2,0.2979047811094969,False
+VA000006-003,Mine dump,Rock / overburden,0.25277685833934355,Lower,2,2,2,1,Unknown,No,copper (1); iron,2,0.1608431506998222,False
+VA000007-001,Mine dump,Rock / overburden,0.38435853008859083,Lower,2,2,2,1,Unknown,No,copper (1); iron (1); lead (1); manganese; zinc (1),5,0.029261478950574904,False
+VA000007-002,Mine dump,Rock / overburden,0.32430729449147366,Lower,2,2,2,1,Unknown,No,copper (1); iron (1); lead (1); manganese; zinc (1),5,0.08931271454769207,False
+VA000007-003,Mine dump,Rock / overburden,0.20178339841374182,Lower,2,2,2,1,Unknown,No,copper (1); iron (1); lead (1); manganese; zinc (1),5,0.21183661062542392,False
+VA000008-001,Mine dump,Rock / overburden,0.4421655940622584,Intermediate,2,2,2,1,Unknown,No,iron; manganese (1),2,0.02854558502309268,False
+VA000008-002,Mine dump,Rock / overburden,0.2386817338618173,Lower,2,2,2,1,Unknown,No,iron; manganese (1),2,0.17493827517734845,False
+VA000008-003,Mine dump,Rock / overburden,0.37643723797582934,Lower,2,2,2,1,Unknown,No,iron; manganese (1),2,0.037182771063336395,False
+VA000009-001,Tailings - undifferentiated,Tailings,0.2925792099463057,Lower,2,2,2,1,Unknown,No,phosphorus; titanium (1),2,0.12104079909286003,False
+VA000009-002,Mine dump,Rock / overburden,0.36341268663691667,Lower,2,2,2,1,Unknown,No,phosphorus; titanium (1),2,0.050207322402249066,False
+VA000009-003,Tailings - pond,Tailings,0.42316302429292113,Intermediate,2,2,2,1,Unknown,No,phosphorus; titanium (1),2,0.009543015253755394,True
+VA000009-004,Mine dump,Rock / overburden,0.1694574774589933,Lower,2,2,2,1,Unknown,No,phosphorus; titanium (1),2,0.24416253158017243,False
+VA000009-005,Mine dump,Rock / overburden,0.2264829864752834,Lower,2,2,2,1,Unknown,No,phosphorus; titanium (1),2,0.18713702256388234,False
+VA000010-002,Mine dump,Rock / overburden,0.12462792746422897,Lower,2,2,2,1,Unknown,No,copper; iron; lead; zinc,4,0.2889920815749368,False
+VA000010-003,Mine dump,Rock / overburden,0.25474146729664227,Lower,2,2,2,1,Unknown,No,copper; iron; lead; zinc,4,0.15887854174252347,False
+VA000011-001,Tailings - pond,Tailings,0.49913611180463846,Intermediate,2,2,2,1,Unknown,No,manganese (1),1,0.08551610276547272,False
+VA000011-002,Mine dump,Rock / overburden,0.3347535858897374,Lower,2,2,2,1,Unknown,No,manganese (1),1,0.07886642314942832,False
+VA000011-003,Mine dump,Rock / overburden,0.5449828084682653,Intermediate,2,2,2,1,Unknown,No,manganese (1),1,0.11522477945030307,False
+VA000012-001,Mine dump,Rock / overburden,0.39292245970955114,Lower,2,2,2,1,Unknown,No,manganese,1,0.020697549329614595,False
+VA000013-001,Mine dump,Rock / overburden,0.34921718533405477,Lower,2,2,2,1,Unknown,No,iron; manganese,2,0.06440282370511097,False
+VA000014-001,Tailings - undifferentiated,Tailings,0.6642058028551167,Higher,2,2,2,1,Unknown,No,titanium; zirconium,2,0.003998214936548283,True
+VA000014-002,Tailings - undifferentiated,Tailings,0.4974146038015882,Intermediate,2,2,2,1,Unknown,No,titanium; zirconium,2,0.08379459476242246,False
+VA000014-003,Tailings - undifferentiated,Tailings,0.46556660937930927,Intermediate,2,2,2,1,Unknown,No,titanium; zirconium,2,0.051946600340143534,False
+VA000015-001,Tailings - undifferentiated,Tailings,0.5637838935990421,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.09642369431952624,False
+VA000015-002,Tailings - undifferentiated,Tailings,0.4427087393377891,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.029088730298623355,False
+VA000015-003,Tailings - undifferentiated,Tailings,0.24701117872570744,Lower,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.1666088303134583,False
+VA000015-004,Tailings - pond,Tailings,0.35702394226749923,Lower,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.05659606677166651,False
+VA000015-005,Tailings - undifferentiated,Tailings,0.3205703838560192,Lower,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.09304962518314652,False
+VA000015-006,Tailings - undifferentiated,Tailings,0.5008061641280578,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.08718615508889205,False
+VA000015-007,Tailings - undifferentiated,Tailings,0.5200804795536893,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.10646047051452356,False
+VA000015-008,Tailings - undifferentiated,Tailings,0.653658384988036,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.006549202930532405,True
+VA000015-009,Tailings - undifferentiated,Tailings,0.17773291510277245,Lower,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.2358870939363933,False
+VA000015-010,Tailings - undifferentiated,Tailings,0.5808501059443197,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.07935748197424863,False
+VA000015-011,Tailings - undifferentiated,Tailings,0.5105453796254719,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.09692537058630613,False
+VA000015-012,Tailings - undifferentiated,Tailings,0.5032537143886325,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.0896337053494668,False
+VA000015-013,Tailings - undifferentiated,Tailings,0.5000262505945777,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.08640624155541199,False
+VA000015-014,Tailings - undifferentiated,Tailings,0.5408660011069845,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.11934158681158391,False
+VA000015-015,Tailings - pond,Tailings,0.3406915637652687,Lower,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.07292844527389702,False
+VA000015-016,Tailings - pond,Tailings,0.2913408547778354,Lower,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.12227915426133035,False
+VA000015-017,Tailings - undifferentiated,Tailings,0.3025059639785244,Lower,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.11111404506064132,False
+VA000015-018,Tailings - undifferentiated,Tailings,0.5854288805410152,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.07477870737755321,False
+VA000015-019,Tailings - undifferentiated,Tailings,0.5509268962608711,Intermediate,2,2,2,1,No,No,aluminum; titanium; zirconium,3,0.10928069165769727,False
+VA000016-001,Tailings - pond,Tailings,0.5988474265303122,Intermediate,2,2,2,1,Unknown,No,gravel; hafnium; sand; titanium; zirconium,5,0.061360161388256174,False
+VA000016-002,Tailings - undifferentiated,Tailings,0.40879787457818245,Lower,2,2,2,1,Unknown,No,gravel; hafnium; sand; titanium; zirconium,5,0.004822134460983285,True
+VA000016-003,Mine dump,Rock / overburden,0.31309285398651293,Lower,2,2,2,1,No,No,gravel; hafnium; sand; titanium; zirconium,5,0.1005271550526528,False
+VA000016-004,Tailings - undifferentiated,Tailings,0.600987963637173,Intermediate,2,2,2,1,No,No,gravel; hafnium; sand; titanium; zirconium,5,0.05921962428139538,False
+VA000016-005,Tailings - pond,Tailings,0.5984218515471398,Intermediate,2,2,2,1,No,No,gravel; hafnium; sand; titanium; zirconium,5,0.06178573637142859,False
+VA000016-006,Tailings - pond,Tailings,0.5231445436037836,Intermediate,2,2,2,1,Unknown,No,gravel; hafnium; sand; titanium; zirconium,5,0.10952453456461786,False
+VA000016-007,Tailings - pond,Tailings,0.5606982446442957,Intermediate,2,2,2,1,No,No,gravel; hafnium; sand; titanium; zirconium,5,0.09950934327427263,False
+VA000016-008,Mine dump,Rock / overburden,0.4154396883987609,Intermediate,2,2,2,1,No,No,gravel; hafnium; sand; titanium; zirconium,5,0.00181967935959515,True
+VA000017-001,Tailings - pond,Tailings,0.21213043355193126,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.20148957548723448,False
+VA000017-002,Tailings - pond,Tailings,0.24491637791006665,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.16870363112909909,False
+VA000017-003,Tailings - pond,Tailings,0.2087050418528457,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.20491496718632005,False
+VA000017-004,Tailings - undifferentiated,Tailings,0.34197396072163716,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.07164604831752858,False
+VA000017-005,Mine dump,Rock / overburden,0.1363812706439115,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.27723873839525426,False
+VA000017-006,Tailings - pond,Tailings,0.34810472221822075,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.06551528682094498,False
+VA000017-007,Tailings - pond,Tailings,0.250680715915131,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.1629392931240347,False
+VA000017-008,Mine dump,Rock / overburden,0.3503656791393589,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.06325432989980684,False
+VA000017-009,Mine dump,Rock / overburden,0.2564613270710912,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.15715868196807453,False
+VA000017-010,Tailings - undifferentiated,Tailings,0.3958574263149051,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.017762582724260623,True
+VA000017-011,Tailings - pond,Tailings,0.34098592790799925,Lower,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.07263408113116648,False
+VA000017-012,Tailings - undifferentiated,Tailings,0.4498044451276447,Intermediate,2,2,2,1,Unknown,No,gravel; sand; titanium; zirconium,4,0.03618443608847899,False
+VA000018-001,Mine dump,Rock / overburden,0.5123897632890553,Intermediate,2,2,2,1,Unknown,No,manganese,1,0.09876975424988954,False
+VA000019-001,Tailings - pond,Tailings,0.3613233150810749,Lower,2,2,2,1,No,No,titanium; zirconium,2,0.052296693958090834,False
+VA000019-002,Tailings - undifferentiated,Tailings,0.27620177890612574,Lower,2,2,2,1,No,No,titanium; zirconium,2,0.13741823013304,False
+VA000019-003,Tailings - undifferentiated,Tailings,0.6274908311899344,Intermediate,2,2,2,1,No,No,titanium; zirconium,2,0.032716756728633944,False
+VA000019-004,Tailings - undifferentiated,Tailings,0.4890605313813335,Intermediate,2,2,2,1,No,No,titanium; zirconium,2,0.07544052234216775,False
+VA000020-001,Mine dump,Rock / overburden,0.44835315682215704,Intermediate,2,2,2,1,Unknown,No,manganese,1,0.0347331477829913,False
+VA000021-001,Mine dump,Rock / overburden,0.4154756927372294,Intermediate,2,2,2,1,Unknown,No,manganese,1,0.0018556836980636593,True
+VA000021-002,Tailings - pond,Tailings,0.32260183246924046,Lower,2,2,2,1,Unknown,No,manganese,1,0.09101817656992528,False
+VA000021-003,Tailings - pond,Tailings,0.46910759371681887,Intermediate,2,2,2,1,Unknown,No,manganese,1,0.055487584677653135,False
+VA000021-004,Tailings - pond,Tailings,0.2373929283797737,Lower,2,2,2,1,Unknown,No,manganese,1,0.17622708065939205,False
+VA000021-005,Tailings - undifferentiated,Tailings,0.3439954927378146,Lower,2,2,2,1,Unknown,No,manganese,1,0.06962451630135114,False
+VA000021-006,Tailings - undifferentiated,Tailings,0.3136927956032371,Lower,2,2,2,1,Unknown,No,manganese,1,0.09992721343592864,False
+VA000021-007,Tailings - pond,Tailings,0.2840143214628444,Lower,2,2,2,1,Unknown,No,manganese,1,0.12960568757632135,False
+VA000022-001,Tailings - pond,Tailings,0.40438759286715953,Lower,2,2,2,1,Unknown,No,cobalt; manganese (1),2,0.009232416172006208,True
+VA000022-002,Mine dump,Rock / overburden,0.34308429934376883,Lower,2,2,2,1,Unknown,No,cobalt; manganese (1),2,0.07053570969539691,False
+VA000023-001,Mine dump,Rock / overburden,0.375559014366148,Lower,2,2,2,1,Unknown,No,aluminum; iron; manganese,3,0.03806099467301771,False
+VA000024-001,Tailings - undifferentiated,Tailings,0.34981086850742327,Lower,2,2,2,1,Unknown,No,gold (1); lead (1); silver (1); tungsten (1); zinc (1),5,0.06380914053174247,False
+VA000024-002,Tailings - undifferentiated,Tailings,0.173375587698479,Lower,2,2,2,1,Unknown,No,gold (1); lead (1); silver (1); tungsten (1); zinc (1),5,0.24024442134068674,False

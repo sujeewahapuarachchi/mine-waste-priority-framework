@@ -1,0 +1,13 @@
+Appendix_Record,Ftr_ID,Ftr_Type,Engineering_Group,Volume_Score,Priority_Band,Material,Geochemical,Geotechnical,Water_Containment,Investigation_Profile,Reclaimed,Superfund,Commodity,Commodity_Count,Boundary_Distance,Boundary_Flag
+1,AZ000008-013,Leach pile - heap,Leach-related,0.9773836108705408,Higher,2,2,1,2,P2,No,No,copper; molybdenum,2,0.3171760229519724,False
+2,AZ000005-002,Tailings - pond,Tailings,0.9339932649038116,Higher,2,2,2,1,P1,No,No,copper; molybdenum; rhenium,3,0.2737856769852432,False
+3,UT000002-005,Mine dump,Rock / overburden,1.0,Higher,2,2,2,1,P1,No,Yes,copper (1); gold (1); lead (1); molybdenum (1); palladium (2); platinum (2); rhenium (3); selenium (2); silver (1); tellurium (2); uranium (3); zinc (1),12,0.3397924120814316,False
+4,OK000001-087,Tailings - undifferentiated,Tailings,0.415080439510246,Intermediate,2,2,2,1,P1,No,Yes,lead (1); zinc (1),2,0.0014604304710802,True
+5,NC000005-003,Overburden pile,Rock / overburden,0.4145551306983441,Intermediate,2,2,2,1,P1,Unknown,No,mica,1,0.0009351216591783,True
+6,NV000007-002,Leach pile - heap,Leach-related,0.4602063818569691,Intermediate,2,2,1,2,P2,No,No,gold; mercury (1); silver,3,0.0465863728178033,False
+7,KY000007-002,Tailings - pond,Tailings,0.0,Lower,2,2,2,1,P1,Unknown,No,fluorite; lead; zinc,3,0.4136200090391657,False
+8,NC000015-001,Mine dump,Rock / overburden,0.0904271227466419,Lower,2,2,2,1,P1,Unknown,No,gold,1,0.3231928862925238,False
+9,NC000010-004,Ore stockpile/storage,Ore / mineralized stockpile,0.253988903844201,Lower,2,1,1,0,P5,Unknown,No,feldspar; mica; quartz,3,0.1596311051949647,False
+10,AZ000018-002,Mine dump,Rock / overburden,0.6602075879185684,Intermediate,2,2,2,1,P1,Unknown,No,copper; gold; lead; silver; zinc,5,0.0,True
+11,NC000024-001,Tailings - pond,Tailings,0.4136200090391657,Lower,2,2,2,1,P1,Unknown,No,lithium (1),1,0.0,True
+12,OK000001-030,Tailings - undifferentiated,Tailings,0.4135010631017368,Lower,2,2,2,1,P1,No,Yes,lead (1); zinc (1),2,0.0001189459374288,True
